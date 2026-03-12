@@ -1,0 +1,2128 @@
+2026-03-10 13:57:32,304 [INFO] 🚀 Initializing Smart Trading Bot...
+2026-03-10 13:57:33,125 [INFO] [OK] Telegram alerts enabled
+2026-03-10 13:57:33,125 [INFO] ✅ Bot ready | Mode: PAPER | Pairs: ['BTCUSDT', 'ETHUSDT']
+2026-03-10 13:57:33,125 [INFO] ▶️  Bot started. Press Ctrl+C to stop.
+2026-03-10 13:57:34,115 [WARNING] ⚠️  Telegram send failed: {"ok":false,"error_code":403,"description":"Forbidden: bots can't send messages to bots"}
+2026-03-10 13:57:34,118 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-10 13:57:34,343 [INFO] 💰 BTCUSDT price: 70834.9700
+2026-03-10 13:57:34,350 [INFO] 📈 Technical Signal: HOLD | RSI: 69.8 | EMA: BULLISH
+2026-03-10 13:57:45,228 [WARNING] ⚠️  News fetch failed for BTC: HTTPSConnectionPool(host='min-api.cryptocompare.com', port=443): Read timed out. (read timeout=10)
+2026-03-10 13:57:47,008 [INFO] 📰 BTC news: NEGATIVE (-0.10) | Sample: 'Bitcoin's mined supply hits 20 million milestone, leaving fi...'
+2026-03-10 13:57:47,009 [INFO] 📰 News Sentiment: NEGATIVE (-0.10)
+2026-03-10 13:57:47,010 [INFO] 🧠 Decision: HOLD
+2026-03-10 13:57:47,011 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-10 13:57:47,252 [INFO] 💰 ETHUSDT price: 2062.3600
+2026-03-10 13:57:47,266 [INFO] 📈 Technical Signal: HOLD | RSI: 68.3 | EMA: BULLISH
+2026-03-10 13:57:52,443 [INFO] 📰 ETH news: NEUTRAL (-0.06) | Sample: 'SharpLink Gaming Stock Reports $734M Loss Tied to ETH Holdin...'
+2026-03-10 13:57:52,444 [INFO] 📰 News Sentiment: NEUTRAL (-0.06)
+2026-03-10 13:57:52,445 [INFO] 🧠 Decision: HOLD
+2026-03-10 13:57:52,445 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-10 14:02:52,448 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-10 14:02:52,927 [INFO] 💰 BTCUSDT price: 70918.6700
+2026-03-10 14:02:52,932 [INFO] 📈 Technical Signal: HOLD | RSI: 71.0 | EMA: BULLISH
+2026-03-10 14:02:52,932 [INFO] 📰 News Sentiment: NEGATIVE (-0.10)
+2026-03-10 14:02:52,933 [INFO] 🧠 Decision: HOLD
+2026-03-10 14:02:52,934 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-10 14:02:53,178 [INFO] 💰 ETHUSDT price: 2064.5200
+2026-03-10 14:02:53,184 [INFO] 📈 Technical Signal: HOLD | RSI: 69.5 | EMA: BULLISH
+2026-03-10 14:02:53,185 [INFO] 📰 News Sentiment: NEUTRAL (-0.06)
+2026-03-10 14:02:53,185 [INFO] 🧠 Decision: HOLD
+2026-03-10 14:02:53,186 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-10 14:05:30,039 [INFO] 🛑 Bot stopped by user.
+2026-03-10 14:05:30,979 [WARNING] ⚠️  Telegram send failed: {"ok":false,"error_code":403,"description":"Forbidden: bots can't send messages to bots"}
+2026-03-10 14:06:11,716 [INFO] 🚀 Initializing Smart Trading Bot...
+2026-03-10 14:06:12,493 [INFO] [OK] Telegram alerts enabled
+2026-03-10 14:06:12,493 [INFO] ✅ Bot ready | Mode: PAPER | Pairs: ['BTCUSDT', 'ETHUSDT']
+2026-03-10 14:06:12,494 [INFO] ▶️  Bot started. Press Ctrl+C to stop.
+2026-03-10 14:06:13,394 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-10 14:06:13,621 [INFO] 💰 BTCUSDT price: 70980.6700
+2026-03-10 14:06:13,628 [INFO] 📈 Technical Signal: HOLD | RSI: 71.8 | EMA: BULLISH
+2026-03-10 14:06:21,397 [INFO] 📰 BTC news: NEUTRAL (0.03) | Sample: 'Bhutan trims Bitcoin reserves as BTC transfers top $40M in 2...'
+2026-03-10 14:06:21,397 [INFO] 📰 News Sentiment: NEUTRAL (0.03)
+2026-03-10 14:06:21,397 [INFO] 🧠 Decision: HOLD
+2026-03-10 14:06:21,398 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-10 14:06:21,610 [INFO] 💰 ETHUSDT price: 2066.7100
+2026-03-10 14:06:21,617 [INFO] 📈 Technical Signal: HOLD | RSI: 70.7 | EMA: BULLISH
+2026-03-10 14:06:24,704 [INFO] 📰 ETH news: NEUTRAL (-0.06) | Sample: 'SharpLink Gaming Stock Reports $734M Loss Tied to ETH Holdin...'
+2026-03-10 14:06:24,704 [INFO] 📰 News Sentiment: NEUTRAL (-0.06)
+2026-03-10 14:06:24,705 [INFO] 🧠 Decision: HOLD
+2026-03-10 14:06:24,705 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-10 14:07:33,671 [INFO] 🚀 Initializing Smart Trading Bot...
+2026-03-10 14:07:34,590 [INFO] [OK] Telegram alerts enabled
+2026-03-10 14:07:34,590 [INFO] ✅ Bot ready | Mode: PAPER | Pairs: ['BTCUSDT', 'ETHUSDT']
+2026-03-10 14:07:34,591 [INFO] ▶️  Bot started. Press Ctrl+C to stop.
+2026-03-10 14:07:35,568 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-10 14:07:35,782 [INFO] 💰 BTCUSDT price: 70886.3300
+2026-03-10 14:07:35,788 [INFO] 📈 Technical Signal: HOLD | RSI: 70.6 | EMA: BULLISH
+2026-03-10 14:07:46,709 [WARNING] ⚠️  News fetch failed for BTC: HTTPSConnectionPool(host='min-api.cryptocompare.com', port=443): Read timed out. (read timeout=10)
+2026-03-10 14:07:48,263 [INFO] 📰 BTC news: NEUTRAL (-0.05) | Sample: 'Bitcoin's mined supply hits 20 million milestone, leaving fi...'
+2026-03-10 14:07:48,264 [INFO] 📰 News Sentiment: NEUTRAL (-0.05)
+2026-03-10 14:07:48,265 [INFO] 🧠 Decision: HOLD
+2026-03-10 14:07:48,266 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-10 14:07:48,480 [INFO] 💰 ETHUSDT price: 2065.9000
+2026-03-10 14:07:48,495 [INFO] 📈 Technical Signal: HOLD | RSI: 70.3 | EMA: BULLISH
+2026-03-10 14:07:59,330 [WARNING] ⚠️  News fetch failed for ETH: HTTPSConnectionPool(host='min-api.cryptocompare.com', port=443): Read timed out. (read timeout=10)
+2026-03-10 14:08:01,078 [INFO] 📰 ETH news: NEUTRAL (0.03) | Sample: 'Bitmine Immersion Technologies (BMNR) Announces ETH Holdings...'
+2026-03-10 14:08:01,078 [INFO] 📰 News Sentiment: NEUTRAL (0.03)
+2026-03-10 14:08:01,079 [INFO] 🧠 Decision: HOLD
+2026-03-10 14:08:01,079 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-10 14:11:05,259 [INFO] 🛑 Bot stopped by user.
+2026-03-10 14:11:11,299 [INFO] 🚀 Initializing Smart Trading Bot...
+2026-03-10 14:11:12,151 [INFO] [OK] Telegram alerts enabled
+2026-03-10 14:11:12,152 [INFO] ✅ Bot ready | Mode: PAPER | Pairs: ['BTCUSDT', 'ETHUSDT']
+2026-03-10 14:11:12,152 [INFO] ▶️  Bot started. Press Ctrl+C to stop.
+2026-03-10 14:11:13,279 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-10 14:11:13,506 [INFO] 💰 BTCUSDT price: 70962.5600
+2026-03-10 14:11:13,513 [INFO] 📈 Technical Signal: HOLD | RSI: 71.6 | EMA: BULLISH
+2026-03-10 14:11:20,408 [WARNING] ⚠️  CryptoCompare fetch failed for BTC: HTTPSConnectionPool(host='min-api.cryptocompare.com', port=443): Read timed out. (read timeout=6)
+2026-03-10 14:11:21,553 [INFO] 📰 BTC news: NEUTRAL (-0.05) | Sample: 'Nigel Farage invests £215,000 in Kwasi Kwarteng’s bitcoin fi...'
+2026-03-10 14:11:21,554 [INFO] 📰 News Sentiment: NEUTRAL (-0.05)
+2026-03-10 14:11:21,554 [INFO] 🧠 Decision: HOLD
+2026-03-10 14:11:21,555 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-10 14:11:21,781 [INFO] 💰 ETHUSDT price: 2067.6200
+2026-03-10 14:11:21,788 [INFO] 📈 Technical Signal: HOLD | RSI: 71.1 | EMA: BULLISH
+2026-03-10 14:11:24,706 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-10 14:11:25,165 [INFO] 💰 BTCUSDT price: 70966.9300
+2026-03-10 14:11:25,179 [INFO] 📈 Technical Signal: HOLD | RSI: 71.7 | EMA: BULLISH
+2026-03-10 14:11:25,180 [INFO] 📰 News Sentiment: NEUTRAL (0.03)
+2026-03-10 14:11:25,180 [INFO] 🧠 Decision: HOLD
+2026-03-10 14:11:25,180 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-10 14:11:25,468 [INFO] 💰 ETHUSDT price: 2067.8400
+2026-03-10 14:11:25,473 [INFO] 📈 Technical Signal: HOLD | RSI: 71.2 | EMA: BULLISH
+2026-03-10 14:11:25,474 [INFO] 📰 News Sentiment: NEUTRAL (-0.06)
+2026-03-10 14:11:25,474 [INFO] 🧠 Decision: HOLD
+2026-03-10 14:11:25,474 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-10 14:11:28,712 [WARNING] ⚠️  CryptoCompare fetch failed for ETH: HTTPSConnectionPool(host='min-api.cryptocompare.com', port=443): Read timed out. (read timeout=6)
+2026-03-10 14:11:29,484 [INFO] 📰 ETH news: NEUTRAL (0.03) | Sample: 'Bitmine Immersion Technologies (BMNR) Announces ETH Holdings...'
+2026-03-10 14:11:29,485 [INFO] 📰 News Sentiment: NEUTRAL (0.03)
+2026-03-10 14:11:29,485 [INFO] 🧠 Decision: HOLD
+2026-03-10 14:11:29,486 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-10 14:16:25,475 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-10 14:16:25,972 [INFO] 💰 BTCUSDT price: 70789.7500
+2026-03-10 14:16:25,977 [INFO] 📈 Technical Signal: HOLD | RSI: 66.8 | EMA: BULLISH
+2026-03-10 14:16:29,497 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-10 14:16:29,917 [INFO] 💰 BTCUSDT price: 70781.7400
+2026-03-10 14:16:29,921 [INFO] 📈 Technical Signal: HOLD | RSI: 66.6 | EMA: BULLISH
+2026-03-10 14:16:29,922 [INFO] 📰 News Sentiment: NEUTRAL (-0.05)
+2026-03-10 14:16:29,922 [INFO] 🧠 Decision: HOLD
+2026-03-10 14:16:29,923 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-10 14:16:30,125 [INFO] 💰 ETHUSDT price: 2061.7500
+2026-03-10 14:16:30,131 [INFO] 📈 Technical Signal: HOLD | RSI: 65.0 | EMA: BULLISH
+2026-03-10 14:16:30,132 [INFO] 📰 News Sentiment: NEUTRAL (0.03)
+2026-03-10 14:16:30,133 [INFO] 🧠 Decision: HOLD
+2026-03-10 14:16:30,134 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-10 14:16:34,712 [WARNING] ⚠️  News fetch failed for BTC: unhashable type: 'slice'
+2026-03-10 14:16:35,935 [INFO] 📰 BTC news: NEUTRAL (-0.05) | Sample: 'Bitcoin's mined supply hits 20 million milestone, leaving fi...'
+2026-03-10 14:16:35,935 [INFO] 📰 News Sentiment: NEUTRAL (-0.05)
+2026-03-10 14:16:35,935 [INFO] 🧠 Decision: HOLD
+2026-03-10 14:16:35,935 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-10 14:16:36,254 [INFO] 💰 ETHUSDT price: 2061.4700
+2026-03-10 14:16:36,259 [INFO] 📈 Technical Signal: HOLD | RSI: 64.7 | EMA: BULLISH
+2026-03-10 14:16:43,421 [INFO] 📰 ETH news: NEUTRAL (-0.06) | Sample: 'SharpLink Gaming Stock Reports $734M Loss Tied to ETH Holdin...'
+2026-03-10 14:16:43,421 [INFO] 📰 News Sentiment: NEUTRAL (-0.06)
+2026-03-10 14:16:43,421 [INFO] 🧠 Decision: HOLD
+2026-03-10 14:16:43,421 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-10 14:19:03,936 [INFO] 🛑 Bot stopped by user.
+2026-03-10 14:19:40,510 [INFO] 🚀 Initializing Smart Trading Bot...
+2026-03-10 14:19:41,265 [INFO] [OK] Telegram alerts enabled
+2026-03-10 14:19:41,266 [INFO] ✅ Bot ready | Mode: PAPER | Pairs: ['BTCUSDT', 'ETHUSDT']
+2026-03-10 14:19:41,266 [INFO] ▶️  Bot started. Press Ctrl+C to stop.
+2026-03-10 14:19:42,313 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-10 14:19:42,549 [INFO] 💰 BTCUSDT price: 70827.2100
+2026-03-10 14:19:42,554 [INFO] 📈 Technical Signal: HOLD | RSI: 68.0 | EMA: BULLISH
+2026-03-10 14:19:49,678 [WARNING] ⚠️  CryptoCompare fetch failed for BTC: HTTPSConnectionPool(host='min-api.cryptocompare.com', port=443): Read timed out. (read timeout=6)
+2026-03-10 14:19:50,916 [INFO] 📰 BTC news: NEUTRAL (-0.05) | Sample: 'Bitcoin's mined supply hits 20 million milestone, leaving fi...'
+2026-03-10 14:19:50,917 [INFO] 📰 News Sentiment: NEUTRAL (-0.05)
+2026-03-10 14:19:50,917 [INFO] 🧠 Decision: HOLD
+2026-03-10 14:19:50,918 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-10 14:19:51,224 [INFO] 💰 ETHUSDT price: 2062.1600
+2026-03-10 14:19:51,231 [INFO] 📈 Technical Signal: HOLD | RSI: 65.4 | EMA: BULLISH
+2026-03-10 14:19:55,620 [WARNING] ⚠️  CryptoCompare fetch failed for ETH: unhashable type: 'slice'
+2026-03-10 14:19:56,251 [INFO] 📰 ETH news: NEUTRAL (0.03) | Sample: 'Bitmine Immersion Technologies (BMNR) Announces ETH Holdings...'
+2026-03-10 14:19:56,251 [INFO] 📰 News Sentiment: NEUTRAL (0.03)
+2026-03-10 14:19:56,252 [INFO] 🧠 Decision: HOLD
+2026-03-10 14:19:56,252 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-10 14:21:43,427 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-10 14:21:43,924 [INFO] 💰 BTCUSDT price: 70782.5400
+2026-03-10 14:21:43,936 [INFO] 📈 Technical Signal: HOLD | RSI: 66.6 | EMA: BULLISH
+2026-03-10 14:21:43,937 [INFO] 📰 News Sentiment: NEUTRAL (-0.05)
+2026-03-10 14:21:43,937 [INFO] 🧠 Decision: HOLD
+2026-03-10 14:21:43,937 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-10 14:21:44,149 [INFO] 💰 ETHUSDT price: 2059.6100
+2026-03-10 14:21:44,157 [INFO] 📈 Technical Signal: HOLD | RSI: 62.8 | EMA: BULLISH
+2026-03-10 14:21:44,158 [INFO] 📰 News Sentiment: NEUTRAL (-0.06)
+2026-03-10 14:21:44,158 [INFO] 🧠 Decision: HOLD
+2026-03-10 14:21:44,158 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-10 14:24:56,255 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-10 14:24:56,903 [INFO] 💰 BTCUSDT price: 70700.0000
+2026-03-10 14:24:56,912 [INFO] 📈 Technical Signal: HOLD | RSI: 64.2 | EMA: BULLISH
+2026-03-10 14:24:56,913 [INFO] 📰 News Sentiment: NEUTRAL (-0.05)
+2026-03-10 14:24:56,913 [INFO] 🧠 Decision: HOLD
+2026-03-10 14:24:56,915 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-10 14:24:57,200 [INFO] 💰 ETHUSDT price: 2058.4500
+2026-03-10 14:24:57,209 [INFO] 📈 Technical Signal: HOLD | RSI: 61.6 | EMA: BULLISH
+2026-03-10 14:24:57,210 [INFO] 📰 News Sentiment: NEUTRAL (0.03)
+2026-03-10 14:24:57,211 [INFO] 🧠 Decision: HOLD
+2026-03-10 14:24:57,212 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-10 14:26:44,163 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-10 14:26:44,615 [INFO] 💰 BTCUSDT price: 70673.5600
+2026-03-10 14:26:44,625 [INFO] 📈 Technical Signal: HOLD | RSI: 63.4 | EMA: BULLISH
+2026-03-10 14:26:46,561 [INFO] 📰 BTC news: NEUTRAL (0.03) | Sample: 'Bhutan trims Bitcoin reserves as BTC transfers top $40M in 2...'
+2026-03-10 14:26:46,561 [INFO] 📰 News Sentiment: NEUTRAL (0.03)
+2026-03-10 14:26:46,561 [INFO] 🧠 Decision: HOLD
+2026-03-10 14:26:46,561 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-10 14:26:46,778 [INFO] 💰 ETHUSDT price: 2056.9100
+2026-03-10 14:26:46,786 [INFO] 📈 Technical Signal: HOLD | RSI: 60.1 | EMA: BULLISH
+2026-03-10 14:26:50,373 [INFO] 📰 ETH news: NEUTRAL (-0.06) | Sample: 'SharpLink Posts $734 Million Loss as Ethereum Holdings Roil ...'
+2026-03-10 14:26:50,374 [INFO] 📰 News Sentiment: NEUTRAL (-0.06)
+2026-03-10 14:26:50,374 [INFO] 🧠 Decision: HOLD
+2026-03-10 14:26:50,375 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-10 14:29:57,215 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-10 14:29:57,603 [INFO] 💰 BTCUSDT price: 70660.7500
+2026-03-10 14:29:57,612 [INFO] 📈 Technical Signal: HOLD | RSI: 63.1 | EMA: BULLISH
+2026-03-10 14:30:04,525 [WARNING] ⚠️  CryptoCompare fetch failed for BTC: HTTPSConnectionPool(host='min-api.cryptocompare.com', port=443): Read timed out. (read timeout=6)
+2026-03-10 14:30:05,675 [INFO] 📰 BTC news: NEUTRAL (-0.05) | Sample: 'Nigel Farage invests £215,000 in Kwasi Kwarteng’s bitcoin fi...'
+2026-03-10 14:30:05,677 [INFO] 📰 News Sentiment: NEUTRAL (-0.05)
+2026-03-10 14:30:05,677 [INFO] 🧠 Decision: HOLD
+2026-03-10 14:30:05,678 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-10 14:30:05,908 [INFO] 💰 ETHUSDT price: 2056.8000
+2026-03-10 14:30:05,923 [INFO] 📈 Technical Signal: HOLD | RSI: 59.9 | EMA: BULLISH
+2026-03-10 14:30:12,681 [WARNING] ⚠️  CryptoCompare fetch failed for ETH: HTTPSConnectionPool(host='min-api.cryptocompare.com', port=443): Read timed out. (read timeout=6)
+2026-03-10 14:30:13,347 [INFO] 📰 ETH news: NEUTRAL (0.07) | Sample: 'Bitmine Immersion Technologies (BMNR) Announces ETH Holdings...'
+2026-03-10 14:30:13,348 [INFO] 📰 News Sentiment: NEUTRAL (0.07)
+2026-03-10 14:30:13,349 [INFO] 🧠 Decision: HOLD
+2026-03-10 14:30:13,351 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-10 14:31:50,392 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-10 14:31:50,824 [INFO] 💰 BTCUSDT price: 70711.5100
+2026-03-10 14:31:50,829 [INFO] 📈 Technical Signal: HOLD | RSI: 64.4 | EMA: BULLISH
+2026-03-10 14:31:50,829 [INFO] 📰 News Sentiment: NEUTRAL (0.03)
+2026-03-10 14:31:50,829 [INFO] 🧠 Decision: HOLD
+2026-03-10 14:31:50,829 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-10 14:31:51,043 [INFO] 💰 ETHUSDT price: 2058.2500
+2026-03-10 14:31:51,048 [INFO] 📈 Technical Signal: HOLD | RSI: 61.0 | EMA: BULLISH
+2026-03-10 14:31:51,048 [INFO] 📰 News Sentiment: NEUTRAL (-0.06)
+2026-03-10 14:31:51,048 [INFO] 🧠 Decision: HOLD
+2026-03-10 14:31:51,048 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-10 14:35:13,352 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-10 14:35:23,363 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Read timed out. (read timeout=10)
+2026-03-10 14:35:23,364 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-10 14:35:23,365 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-10 14:35:23,368 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001C472592560>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-10 14:35:23,369 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-10 14:35:23,370 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-10 14:36:51,063 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-10 14:37:01,074 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Read timed out. (read timeout=10)
+2026-03-10 14:37:01,077 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-10 14:37:01,077 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-10 14:37:01,080 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F418EB0>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-10 14:37:01,081 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-10 14:37:01,081 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-10 14:40:23,383 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-10 14:40:23,393 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001C4725935B0>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-10 14:40:23,394 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-10 14:40:23,395 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-10 14:40:23,398 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001C47253DD50>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-10 14:40:23,399 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-10 14:40:23,400 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-10 14:42:01,091 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-10 14:42:01,096 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F4191E0>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-10 14:42:01,097 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-10 14:42:01,097 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-10 14:42:01,100 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F4181C0>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-10 14:42:01,100 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-10 14:42:01,100 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-10 14:45:23,413 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-10 14:45:23,417 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001C472784370>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-10 14:45:23,418 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-10 14:45:23,419 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-10 14:45:23,422 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001C472784880>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-10 14:45:23,424 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-10 14:45:23,424 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-10 14:47:01,109 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-10 14:47:01,113 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F418190>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-10 14:47:01,114 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-10 14:47:01,114 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-10 14:47:01,117 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F3A1510>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-10 14:47:01,118 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-10 14:47:01,118 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-10 14:50:23,431 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-10 14:50:23,435 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001C472784D90>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-10 14:50:23,436 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-10 14:50:23,437 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-10 14:50:23,443 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001C4727852A0>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-10 14:50:23,444 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-10 14:50:23,445 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-10 14:52:01,130 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-10 14:52:01,134 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F419AB0>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-10 14:52:01,134 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-10 14:52:01,135 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-10 14:52:01,137 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F4182B0>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-10 14:52:01,138 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-10 14:52:01,138 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-10 14:52:43,756 [INFO] 🛑 Bot stopped by user.
+2026-03-10 14:52:43,757 [WARNING] ⚠️  Telegram error: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8563996544:AAGjP-4CHhuprgWqer2llSsIy15M0KwS9-g/sendMessage (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001C4725926B0>: Failed to resolve 'api.telegram.org' ([Errno 11001] getaddrinfo failed)"))
+2026-03-10 21:38:49,677 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-10 21:38:49,682 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F4188E0>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-10 21:38:49,683 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-10 21:38:49,685 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-10 21:38:49,688 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F418AF0>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-10 21:38:49,689 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-10 21:38:49,689 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-10 21:43:49,697 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-10 21:43:49,702 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F419FC0>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-10 21:43:49,704 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-10 21:43:49,704 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-10 21:43:49,708 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F41A500>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-10 21:43:49,710 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-10 21:43:49,710 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-10 21:48:49,718 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-10 21:48:49,724 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F41AA40>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-10 21:48:49,726 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-10 21:48:49,726 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-10 21:48:49,730 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F41AF80>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-10 21:48:49,732 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-10 21:48:49,733 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-10 21:53:49,734 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-10 21:53:49,739 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F41AE30>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-10 21:53:49,740 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-10 21:53:49,741 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-10 21:53:49,745 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F41AAD0>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-10 21:53:49,746 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-10 21:53:49,746 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-10 21:58:49,761 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-10 21:58:49,766 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F41A590>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-10 21:58:49,767 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-10 21:58:49,767 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-10 21:58:49,771 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F41A050>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-10 21:58:49,773 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-10 21:58:49,773 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-10 22:03:49,782 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-10 22:03:49,787 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F4194E0>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-10 22:03:49,789 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-10 22:03:49,790 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-10 22:03:49,795 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F4193F0>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-10 22:03:49,797 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-10 22:03:49,797 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-10 22:08:49,799 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-10 22:08:49,804 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F418670>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-10 22:08:49,805 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-10 22:08:49,805 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-10 22:08:49,808 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F418B80>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-10 22:08:49,809 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-10 22:08:49,809 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-10 22:13:49,817 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-10 22:13:49,822 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F41B4C0>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-10 22:13:49,823 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-10 22:13:49,823 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-10 22:13:49,826 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F41B9A0>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-10 22:13:49,826 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-10 22:13:49,826 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-10 22:18:49,832 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-10 22:18:49,834 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F41B790>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-10 22:18:49,835 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-10 22:18:49,835 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-10 22:18:49,837 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F41B250>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-10 22:18:49,837 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-10 22:18:49,837 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-10 22:23:49,846 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-10 22:23:49,851 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F419B40>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-10 22:23:49,852 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-10 22:23:49,853 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-10 22:23:49,855 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F4191B0>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-10 22:23:49,856 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-10 22:23:49,857 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-10 22:28:49,867 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-10 22:28:49,871 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F4189A0>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-10 22:28:49,872 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-10 22:28:49,872 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-10 22:28:49,875 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F419D20>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-10 22:28:49,876 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-10 22:28:49,876 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-10 22:33:49,884 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-10 22:33:49,889 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F419EA0>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-10 22:33:49,891 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-10 22:33:49,891 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-10 22:33:49,893 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F41A800>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-10 22:33:49,893 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-10 22:33:49,893 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-10 22:38:49,896 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-10 22:38:49,901 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F41AE30>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-10 22:38:49,902 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-10 22:38:49,903 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-10 22:38:49,906 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F5F40D0>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-10 22:38:49,907 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-10 22:38:49,907 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-10 22:43:49,907 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-10 22:43:49,912 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F41AE30>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-10 22:43:49,913 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-10 22:43:49,914 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-10 22:43:49,916 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F41A170>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-10 22:43:49,917 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-10 22:43:49,917 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-10 22:48:49,919 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-10 22:48:49,925 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F41A590>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-10 22:48:49,926 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-10 22:48:49,926 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-10 22:48:49,929 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F419F60>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-10 22:48:49,930 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-10 22:48:49,930 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-10 22:53:49,940 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-10 22:53:49,945 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F418700>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-10 22:53:49,946 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-10 22:53:49,947 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-10 22:53:49,951 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F4186A0>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-10 22:53:49,952 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-10 22:53:49,952 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-10 22:58:49,952 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-10 22:58:49,958 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F418CA0>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-10 22:58:49,959 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-10 22:58:49,960 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-10 22:58:49,964 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F41B220>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-10 22:58:49,966 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-10 22:58:49,966 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-10 23:03:49,978 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-10 23:03:49,983 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F41B850>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-10 23:03:49,985 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-10 23:03:49,985 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-10 23:03:49,990 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F5F44F0>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-10 23:03:50,008 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-10 23:03:50,008 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-10 23:08:50,011 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-10 23:08:50,016 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F418B80>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-10 23:08:50,017 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-10 23:08:50,017 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-10 23:08:50,024 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F418D30>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-10 23:08:50,026 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-10 23:08:50,026 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-10 23:13:50,038 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-10 23:13:50,044 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F419870>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-10 23:13:50,045 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-10 23:13:50,046 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-10 23:13:50,050 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F418730>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-10 23:13:50,051 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-10 23:13:50,051 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-10 23:18:50,063 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-10 23:18:50,068 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F4185E0>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-10 23:18:50,069 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-10 23:18:50,070 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-10 23:18:50,073 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F419540>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-10 23:18:50,074 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-10 23:18:50,074 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-10 23:23:50,085 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-10 23:23:50,091 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F41A0E0>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-10 23:23:50,093 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-10 23:23:50,093 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-10 23:23:50,098 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F41A470>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-10 23:23:50,099 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-10 23:23:50,099 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-10 23:28:50,109 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-10 23:28:50,115 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F41AB90>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-10 23:28:50,117 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-10 23:28:50,117 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-10 23:28:50,122 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F41BF70>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-10 23:28:50,124 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-10 23:28:50,124 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-10 23:33:50,126 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-10 23:33:50,131 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F41AC20>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-10 23:33:50,132 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-10 23:33:50,132 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-10 23:33:50,136 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F41ABC0>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-10 23:33:50,137 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-10 23:33:50,138 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-10 23:38:50,142 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-10 23:38:50,147 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F41A2C0>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-10 23:38:50,148 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-10 23:38:50,149 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-10 23:38:50,153 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F41A290>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-10 23:38:50,155 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-10 23:38:50,155 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-10 23:43:50,167 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-10 23:43:50,174 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F419D50>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-10 23:43:50,175 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-10 23:43:50,175 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-10 23:43:50,179 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F4194B0>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-10 23:43:50,181 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-10 23:43:50,181 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-11 21:11:06,166 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-11 21:11:06,170 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F418FA0>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-11 21:11:06,172 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-11 21:11:06,172 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-11 21:11:06,175 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F419A80>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-11 21:11:06,176 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-11 21:11:06,177 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-11 21:16:06,191 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-11 21:16:06,198 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F41B8B0>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-11 21:16:06,200 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-11 21:16:06,201 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-11 21:16:06,204 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F41B760>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-11 21:16:06,206 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-11 21:16:06,206 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-11 21:21:06,214 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-11 21:21:06,221 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F41B040>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-11 21:21:06,223 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-11 21:21:06,224 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-11 21:21:06,228 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F41B8B0>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-11 21:21:06,231 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-11 21:21:06,231 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-11 21:26:06,239 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-11 21:26:06,246 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F419AB0>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-11 21:26:06,248 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-11 21:26:06,248 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-11 21:26:06,253 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F419450>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-11 21:26:06,255 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-11 21:26:06,255 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-11 21:31:06,258 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-11 21:31:06,270 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F4185B0>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-11 21:31:06,272 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-11 21:31:06,272 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-11 21:31:06,277 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F419000>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-11 21:31:06,278 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-11 21:31:06,278 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-11 21:36:06,283 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-11 21:36:06,289 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F419D80>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-11 21:36:06,291 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-11 21:36:06,291 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-11 21:36:06,295 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F41AAD0>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-11 21:36:06,297 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-11 21:36:06,297 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-11 22:34:24,204 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-11 22:34:26,833 [INFO] 💰 BTCUSDT price: 70912.2900
+2026-03-11 22:34:26,867 [INFO] 📈 Technical Signal: HOLD | RSI: 64.3 | EMA: BULLISH
+2026-03-11 22:34:35,788 [INFO] 📰 BTC news: NEUTRAL (0.01) | Sample: 'Arthur Hayes Says He Wouldn’t Buy Bitcoin Yet: Wait For This...'
+2026-03-11 22:34:35,788 [INFO] 📰 News Sentiment: NEUTRAL (0.01)
+2026-03-11 22:34:35,789 [INFO] 🧠 Decision: HOLD
+2026-03-11 22:34:35,789 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-11 22:34:36,110 [INFO] 💰 ETHUSDT price: 2075.4400
+2026-03-11 22:34:36,117 [INFO] 📈 Technical Signal: HOLD | RSI: 65.3 | EMA: BULLISH
+2026-03-11 22:34:42,862 [WARNING] ⚠️  News fetch failed for ETH: unhashable type: 'slice'
+2026-03-11 22:34:44,556 [INFO] 📰 ETH news: NEUTRAL (0.05) | Sample: 'Bitmine Immersion Technologies (BMNR) Announces ETH Holdings...'
+2026-03-11 22:34:44,556 [INFO] 📰 News Sentiment: NEUTRAL (0.05)
+2026-03-11 22:34:44,556 [INFO] 🧠 Decision: HOLD
+2026-03-11 22:34:44,557 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-11 22:39:44,574 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-11 22:39:45,149 [INFO] 💰 BTCUSDT price: 70878.1600
+2026-03-11 22:39:45,156 [INFO] 📈 Technical Signal: HOLD | RSI: 63.8 | EMA: BULLISH
+2026-03-11 22:39:45,157 [INFO] 📰 News Sentiment: NEUTRAL (0.01)
+2026-03-11 22:39:45,157 [INFO] 🧠 Decision: HOLD
+2026-03-11 22:39:45,157 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-11 22:39:45,462 [INFO] 💰 ETHUSDT price: 2073.5800
+2026-03-11 22:39:45,469 [INFO] 📈 Technical Signal: HOLD | RSI: 64.6 | EMA: BULLISH
+2026-03-11 22:39:45,470 [INFO] 📰 News Sentiment: NEUTRAL (0.05)
+2026-03-11 22:39:45,470 [INFO] 🧠 Decision: HOLD
+2026-03-11 22:39:45,470 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-11 22:44:45,488 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-11 22:44:46,065 [INFO] 💰 BTCUSDT price: 70875.4200
+2026-03-11 22:44:46,074 [INFO] 📈 Technical Signal: HOLD | RSI: 63.8 | EMA: BULLISH
+2026-03-11 22:44:49,759 [WARNING] ⚠️  News fetch failed for BTC: unhashable type: 'slice'
+2026-03-11 22:44:50,894 [INFO] 📰 BTC news: NEUTRAL (0.09) | Sample: 'Bitcoin's mined supply hits 20 million milestone, leaving fi...'
+2026-03-11 22:44:50,894 [INFO] 📰 News Sentiment: NEUTRAL (0.09)
+2026-03-11 22:44:50,895 [INFO] 🧠 Decision: HOLD
+2026-03-11 22:44:50,895 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-11 22:44:51,175 [INFO] 💰 ETHUSDT price: 2071.5400
+2026-03-11 22:44:51,184 [INFO] 📈 Technical Signal: HOLD | RSI: 63.8 | EMA: BULLISH
+2026-03-11 22:44:55,530 [INFO] 📰 ETH news: POSITIVE (0.10) | Sample: 'Solana Overtakes Ethereum In Trillion-Dollar Sector, Is Ther...'
+2026-03-11 22:44:55,530 [INFO] 📰 News Sentiment: POSITIVE (0.10)
+2026-03-11 22:44:55,531 [INFO] 🧠 Decision: HOLD
+2026-03-11 22:44:55,531 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-11 22:49:55,532 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-11 22:49:56,356 [INFO] 💰 BTCUSDT price: 70989.7400
+2026-03-11 22:49:56,362 [INFO] 📈 Technical Signal: HOLD | RSI: 65.3 | EMA: BULLISH
+2026-03-11 22:49:56,362 [INFO] 📰 News Sentiment: NEUTRAL (0.09)
+2026-03-11 22:49:56,362 [INFO] 🧠 Decision: HOLD
+2026-03-11 22:49:56,362 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-11 22:49:56,691 [INFO] 💰 ETHUSDT price: 2073.7600
+2026-03-11 22:49:56,698 [INFO] 📈 Technical Signal: HOLD | RSI: 64.7 | EMA: BULLISH
+2026-03-11 22:49:56,698 [INFO] 📰 News Sentiment: POSITIVE (0.10)
+2026-03-11 22:49:56,698 [INFO] 🧠 Decision: HOLD
+2026-03-11 22:49:56,698 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-11 22:54:56,706 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-11 22:54:57,283 [INFO] 💰 BTCUSDT price: 71174.4400
+2026-03-11 22:54:57,291 [INFO] 📈 Technical Signal: HOLD | RSI: 67.6 | EMA: BULLISH
+2026-03-11 22:54:59,388 [INFO] 📰 BTC news: NEUTRAL (-0.01) | Sample: 'Bitcoin ETFs Add $251 Million as Institutional Demand Holds ...'
+2026-03-11 22:54:59,388 [INFO] 📰 News Sentiment: NEUTRAL (-0.01)
+2026-03-11 22:54:59,389 [INFO] 🧠 Decision: HOLD
+2026-03-11 22:54:59,389 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-11 22:54:59,658 [INFO] 💰 ETHUSDT price: 2079.9800
+2026-03-11 22:54:59,665 [INFO] 📈 Technical Signal: HOLD | RSI: 67.0 | EMA: BULLISH
+2026-03-11 22:55:10,628 [INFO] 📰 ETH news: NEUTRAL (-0.01) | Sample: 'Feds seek to permanently seize $3.4M in stolen Tether...'
+2026-03-11 22:55:10,628 [INFO] 📰 News Sentiment: NEUTRAL (-0.01)
+2026-03-11 22:55:10,628 [INFO] 🧠 Decision: HOLD
+2026-03-11 22:55:10,628 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-11 23:00:10,632 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-11 23:00:11,189 [INFO] 💰 BTCUSDT price: 71240.0200
+2026-03-11 23:00:11,193 [INFO] 📈 Technical Signal: HOLD | RSI: 68.2 | EMA: BULLISH
+2026-03-11 23:00:11,193 [INFO] 📰 News Sentiment: NEUTRAL (-0.01)
+2026-03-11 23:00:11,193 [INFO] 🧠 Decision: HOLD
+2026-03-11 23:00:11,193 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-11 23:00:11,459 [INFO] 💰 ETHUSDT price: 2082.1400
+2026-03-11 23:00:11,463 [INFO] 📈 Technical Signal: HOLD | RSI: 67.6 | EMA: BULLISH
+2026-03-11 23:00:11,463 [INFO] 📰 News Sentiment: NEUTRAL (-0.01)
+2026-03-11 23:00:11,463 [INFO] 🧠 Decision: HOLD
+2026-03-11 23:00:11,463 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-11 23:05:11,469 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-11 23:05:12,200 [INFO] 💰 BTCUSDT price: 70989.0300
+2026-03-11 23:05:12,207 [INFO] 📈 Technical Signal: HOLD | RSI: 62.4 | EMA: BULLISH
+2026-03-11 23:05:22,221 [INFO] 📰 BTC news: NEUTRAL (-0.08) | Sample: 'Bitcoin Market Concentration Debate Intensifies As Major Hol...'
+2026-03-11 23:05:22,221 [INFO] 📰 News Sentiment: NEUTRAL (-0.08)
+2026-03-11 23:05:22,221 [INFO] 🧠 Decision: HOLD
+2026-03-11 23:05:22,222 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-11 23:05:22,767 [INFO] 💰 ETHUSDT price: 2075.0000
+2026-03-11 23:05:22,775 [INFO] 📈 Technical Signal: HOLD | RSI: 62.7 | EMA: BULLISH
+2026-03-11 23:05:26,589 [INFO] 📰 ETH news: NEUTRAL (-0.01) | Sample: 'Feds seek to permanently seize $3.4M in stolen Tether...'
+2026-03-11 23:05:26,589 [INFO] 📰 News Sentiment: NEUTRAL (-0.01)
+2026-03-11 23:05:26,589 [INFO] 🧠 Decision: HOLD
+2026-03-11 23:05:26,590 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-11 23:10:26,595 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-11 23:10:27,087 [INFO] 💰 BTCUSDT price: 70826.8800
+2026-03-11 23:10:27,099 [INFO] 📈 Technical Signal: HOLD | RSI: 59.1 | EMA: BULLISH
+2026-03-11 23:10:27,100 [INFO] 📰 News Sentiment: NEUTRAL (-0.08)
+2026-03-11 23:10:27,100 [INFO] 🧠 Decision: HOLD
+2026-03-11 23:10:27,100 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-11 23:10:27,354 [INFO] 💰 ETHUSDT price: 2068.0500
+2026-03-11 23:10:27,360 [INFO] 📈 Technical Signal: HOLD | RSI: 58.5 | EMA: BULLISH
+2026-03-11 23:10:27,361 [INFO] 📰 News Sentiment: NEUTRAL (-0.01)
+2026-03-11 23:10:27,361 [INFO] 🧠 Decision: HOLD
+2026-03-11 23:10:27,361 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-11 23:15:27,362 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-11 23:15:27,971 [INFO] 💰 BTCUSDT price: 70789.7200
+2026-03-11 23:15:27,976 [INFO] 📈 Technical Signal: HOLD | RSI: 58.3 | EMA: BULLISH
+2026-03-11 23:15:38,974 [WARNING] ⚠️  News fetch failed for BTC: HTTPSConnectionPool(host='min-api.cryptocompare.com', port=443): Read timed out. (read timeout=10)
+2026-03-11 23:15:40,292 [INFO] 📰 BTC news: NEUTRAL (0.09) | Sample: 'Bitcoin's mined supply hits 20 million milestone, leaving fi...'
+2026-03-11 23:15:40,292 [INFO] 📰 News Sentiment: NEUTRAL (0.09)
+2026-03-11 23:15:40,292 [INFO] 🧠 Decision: HOLD
+2026-03-11 23:15:40,292 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-11 23:15:40,553 [INFO] 💰 ETHUSDT price: 2068.0500
+2026-03-11 23:15:40,560 [INFO] 📈 Technical Signal: HOLD | RSI: 58.4 | EMA: BULLISH
+2026-03-11 23:15:47,281 [INFO] 📰 ETH news: NEUTRAL (-0.01) | Sample: 'Feds seek to permanently seize $3.4M in stolen Tether...'
+2026-03-11 23:15:47,282 [INFO] 📰 News Sentiment: NEUTRAL (-0.01)
+2026-03-11 23:15:47,282 [INFO] 🧠 Decision: HOLD
+2026-03-11 23:15:47,282 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-11 23:20:47,292 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-11 23:20:48,092 [INFO] 💰 BTCUSDT price: 70907.2100
+2026-03-11 23:20:48,106 [INFO] 📈 Technical Signal: HOLD | RSI: 60.2 | EMA: BULLISH
+2026-03-11 23:20:48,106 [INFO] 📰 News Sentiment: NEUTRAL (0.09)
+2026-03-11 23:20:48,106 [INFO] 🧠 Decision: HOLD
+2026-03-11 23:20:48,106 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-11 23:20:48,362 [INFO] 💰 ETHUSDT price: 2069.5800
+2026-03-11 23:20:48,367 [INFO] 📈 Technical Signal: HOLD | RSI: 59.4 | EMA: BULLISH
+2026-03-11 23:20:48,367 [INFO] 📰 News Sentiment: NEUTRAL (-0.01)
+2026-03-11 23:20:48,367 [INFO] 🧠 Decision: HOLD
+2026-03-11 23:20:48,367 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-11 23:25:48,384 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-11 23:25:49,009 [INFO] 💰 BTCUSDT price: 70636.3600
+2026-03-11 23:25:49,016 [INFO] 📈 Technical Signal: HOLD | RSI: 55.4 | EMA: BULLISH
+2026-03-11 23:25:54,494 [INFO] 📰 BTC news: NEGATIVE (-0.14) | Sample: 'Bitcoin Price Prediction: Quantum Economics Founder Dismisse...'
+2026-03-11 23:25:54,494 [INFO] 📰 News Sentiment: NEGATIVE (-0.14)
+2026-03-11 23:25:54,494 [INFO] 🧠 Decision: HOLD
+2026-03-11 23:25:54,494 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-11 23:25:54,740 [INFO] 💰 ETHUSDT price: 2063.2500
+2026-03-11 23:25:54,746 [INFO] 📈 Technical Signal: HOLD | RSI: 55.7 | EMA: BULLISH
+2026-03-11 23:25:59,624 [INFO] 📰 ETH news: NEUTRAL (-0.01) | Sample: 'Feds seek to permanently seize $3.4M in stolen Tether...'
+2026-03-11 23:25:59,625 [INFO] 📰 News Sentiment: NEUTRAL (-0.01)
+2026-03-11 23:25:59,625 [INFO] 🧠 Decision: HOLD
+2026-03-11 23:25:59,625 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-11 23:30:59,631 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-11 23:31:00,401 [INFO] 💰 BTCUSDT price: 70841.5200
+2026-03-11 23:31:00,405 [INFO] 📈 Technical Signal: HOLD | RSI: 59.1 | EMA: BULLISH
+2026-03-11 23:31:00,405 [INFO] 📰 News Sentiment: NEGATIVE (-0.14)
+2026-03-11 23:31:00,405 [INFO] 🧠 Decision: HOLD
+2026-03-11 23:31:00,405 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-11 23:31:00,650 [INFO] 💰 ETHUSDT price: 2069.4200
+2026-03-11 23:31:00,657 [INFO] 📈 Technical Signal: HOLD | RSI: 59.1 | EMA: BULLISH
+2026-03-11 23:31:00,657 [INFO] 📰 News Sentiment: NEUTRAL (-0.01)
+2026-03-11 23:31:00,657 [INFO] 🧠 Decision: HOLD
+2026-03-11 23:31:00,657 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-11 23:36:00,659 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-11 23:36:01,448 [INFO] 💰 BTCUSDT price: 70822.8900
+2026-03-11 23:36:01,460 [INFO] 📈 Technical Signal: HOLD | RSI: 58.8 | EMA: BULLISH
+2026-03-11 23:36:09,256 [INFO] 📰 BTC news: NEGATIVE (-0.23) | Sample: 'GainBitcoin Pyramid Scheme: India’s CBI Arrests Key Suspect ...'
+2026-03-11 23:36:09,256 [INFO] 📰 News Sentiment: NEGATIVE (-0.23)
+2026-03-11 23:36:09,256 [INFO] 🧠 Decision: HOLD
+2026-03-11 23:36:09,256 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-11 23:36:09,511 [INFO] 💰 ETHUSDT price: 2069.4100
+2026-03-11 23:36:09,515 [INFO] 📈 Technical Signal: HOLD | RSI: 59.1 | EMA: BULLISH
+2026-03-11 23:36:13,010 [INFO] 📰 ETH news: NEUTRAL (-0.01) | Sample: 'Feds seek to permanently seize $3.4M in stolen Tether...'
+2026-03-11 23:36:13,010 [INFO] 📰 News Sentiment: NEUTRAL (-0.01)
+2026-03-11 23:36:13,011 [INFO] 🧠 Decision: HOLD
+2026-03-11 23:36:13,011 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-11 23:41:13,013 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-11 23:41:13,767 [INFO] 💰 BTCUSDT price: 70685.4100
+2026-03-11 23:41:13,770 [INFO] 📈 Technical Signal: HOLD | RSI: 56.1 | EMA: BULLISH
+2026-03-11 23:41:13,771 [INFO] 📰 News Sentiment: NEGATIVE (-0.23)
+2026-03-11 23:41:13,771 [INFO] 🧠 Decision: HOLD
+2026-03-11 23:41:13,771 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-11 23:41:14,026 [INFO] 💰 ETHUSDT price: 2065.2100
+2026-03-11 23:41:14,034 [INFO] 📈 Technical Signal: HOLD | RSI: 56.6 | EMA: BULLISH
+2026-03-11 23:41:14,034 [INFO] 📰 News Sentiment: NEUTRAL (-0.01)
+2026-03-11 23:41:14,034 [INFO] 🧠 Decision: HOLD
+2026-03-11 23:41:14,034 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-11 23:46:14,042 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-11 23:46:14,622 [INFO] 💰 BTCUSDT price: 70797.9900
+2026-03-11 23:46:14,627 [INFO] 📈 Technical Signal: HOLD | RSI: 58.4 | EMA: BULLISH
+2026-03-11 23:46:24,345 [INFO] 📰 BTC news: NEGATIVE (-0.23) | Sample: 'GainBitcoin Pyramid Scheme: India’s CBI Arrests Key Suspect ...'
+2026-03-11 23:46:24,345 [INFO] 📰 News Sentiment: NEGATIVE (-0.23)
+2026-03-11 23:46:24,345 [INFO] 🧠 Decision: HOLD
+2026-03-11 23:46:24,346 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-11 23:46:24,599 [INFO] 💰 ETHUSDT price: 2069.2700
+2026-03-11 23:46:24,604 [INFO] 📈 Technical Signal: HOLD | RSI: 59.1 | EMA: BULLISH
+2026-03-11 23:46:25,925 [INFO] 📰 ETH news: NEUTRAL (-0.01) | Sample: 'Feds seek to permanently seize $3.4M in stolen Tether...'
+2026-03-11 23:46:25,925 [INFO] 📰 News Sentiment: NEUTRAL (-0.01)
+2026-03-11 23:46:25,925 [INFO] 🧠 Decision: HOLD
+2026-03-11 23:46:25,925 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-11 23:51:25,936 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-11 23:51:26,580 [INFO] 💰 BTCUSDT price: 70849.7800
+2026-03-11 23:51:26,592 [INFO] 📈 Technical Signal: HOLD | RSI: 59.2 | EMA: BULLISH
+2026-03-11 23:51:26,592 [INFO] 📰 News Sentiment: NEGATIVE (-0.23)
+2026-03-11 23:51:26,592 [INFO] 🧠 Decision: HOLD
+2026-03-11 23:51:26,593 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-11 23:51:27,153 [INFO] 💰 ETHUSDT price: 2073.0900
+2026-03-11 23:51:27,158 [INFO] 📈 Technical Signal: HOLD | RSI: 60.9 | EMA: BULLISH
+2026-03-11 23:51:27,158 [INFO] 📰 News Sentiment: NEUTRAL (-0.01)
+2026-03-11 23:51:27,158 [INFO] 🧠 Decision: HOLD
+2026-03-11 23:51:27,158 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-11 23:56:27,167 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-11 23:56:27,882 [INFO] 💰 BTCUSDT price: 70837.6300
+2026-03-11 23:56:27,886 [INFO] 📈 Technical Signal: HOLD | RSI: 59.0 | EMA: BULLISH
+2026-03-11 23:56:38,620 [WARNING] ⚠️  News fetch failed for BTC: HTTPSConnectionPool(host='min-api.cryptocompare.com', port=443): Read timed out. (read timeout=10)
+2026-03-11 23:56:39,777 [INFO] 📰 BTC news: NEUTRAL (0.09) | Sample: 'Bitcoin's mined supply hits 20 million milestone, leaving fi...'
+2026-03-11 23:56:39,777 [INFO] 📰 News Sentiment: NEUTRAL (0.09)
+2026-03-11 23:56:39,777 [INFO] 🧠 Decision: HOLD
+2026-03-11 23:56:39,778 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-11 23:56:40,047 [INFO] 💰 ETHUSDT price: 2072.1400
+2026-03-11 23:56:40,051 [INFO] 📈 Technical Signal: HOLD | RSI: 60.4 | EMA: BULLISH
+2026-03-11 23:56:43,350 [INFO] 📰 ETH news: NEUTRAL (-0.01) | Sample: 'Feds seek to permanently seize $3.4M in stolen Tether...'
+2026-03-11 23:56:43,350 [INFO] 📰 News Sentiment: NEUTRAL (-0.01)
+2026-03-11 23:56:43,351 [INFO] 🧠 Decision: HOLD
+2026-03-11 23:56:43,351 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-12 00:01:43,352 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-12 00:01:44,093 [INFO] 💰 BTCUSDT price: 70733.6900
+2026-03-12 00:01:44,098 [INFO] 📈 Technical Signal: HOLD | RSI: 56.9 | EMA: BULLISH
+2026-03-12 00:01:44,099 [INFO] 📰 News Sentiment: NEUTRAL (0.09)
+2026-03-12 00:01:44,099 [INFO] 🧠 Decision: HOLD
+2026-03-12 00:01:44,099 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-12 00:01:44,351 [INFO] 💰 ETHUSDT price: 2073.3900
+2026-03-12 00:01:44,357 [INFO] 📈 Technical Signal: HOLD | RSI: 60.8 | EMA: BULLISH
+2026-03-12 00:01:44,357 [INFO] 📰 News Sentiment: NEUTRAL (-0.01)
+2026-03-12 00:01:44,357 [INFO] 🧠 Decision: HOLD
+2026-03-12 00:01:44,359 [INFO] 📊 Daily Report — 2026-03-12
+Total Trades: 0
+Wins: 0 | Losses: 0
+Win Rate: 0.0%
+Total PnL: +0.00 USDT
+2026-03-12 00:01:45,429 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-12 00:06:45,436 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-12 00:06:45,954 [INFO] 💰 BTCUSDT price: 70676.3400
+2026-03-12 00:06:45,960 [INFO] 📈 Technical Signal: HOLD | RSI: 55.8 | EMA: BULLISH
+2026-03-12 00:06:48,184 [INFO] 📰 BTC news: NEUTRAL (-0.10) | Sample: 'Institutional Influx and ETFs Drive Bitcoin Toward Financial...'
+2026-03-12 00:06:48,185 [INFO] 📰 News Sentiment: NEUTRAL (-0.10)
+2026-03-12 00:06:48,185 [INFO] 🧠 Decision: HOLD
+2026-03-12 00:06:48,185 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-12 00:06:48,507 [INFO] 💰 ETHUSDT price: 2074.6900
+2026-03-12 00:06:48,513 [INFO] 📈 Technical Signal: HOLD | RSI: 61.4 | EMA: BULLISH
+2026-03-12 00:06:55,079 [INFO] 📰 ETH news: NEUTRAL (-0.01) | Sample: 'Feds seek to permanently seize $3.4M in stolen Tether...'
+2026-03-12 00:06:55,079 [INFO] 📰 News Sentiment: NEUTRAL (-0.01)
+2026-03-12 00:06:55,079 [INFO] 🧠 Decision: HOLD
+2026-03-12 00:06:55,079 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-12 00:11:55,094 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-12 00:11:55,758 [INFO] 💰 BTCUSDT price: 70520.2300
+2026-03-12 00:11:55,761 [INFO] 📈 Technical Signal: HOLD | RSI: 52.4 | EMA: BULLISH
+2026-03-12 00:11:55,761 [INFO] 📰 News Sentiment: NEUTRAL (-0.10)
+2026-03-12 00:11:55,761 [INFO] 🧠 Decision: HOLD
+2026-03-12 00:11:55,761 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-12 00:11:56,034 [INFO] 💰 ETHUSDT price: 2067.9400
+2026-03-12 00:11:56,039 [INFO] 📈 Technical Signal: HOLD | RSI: 57.2 | EMA: BULLISH
+2026-03-12 00:11:56,040 [INFO] 📰 News Sentiment: NEUTRAL (-0.01)
+2026-03-12 00:11:56,040 [INFO] 🧠 Decision: HOLD
+2026-03-12 00:11:56,040 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-12 12:32:01,839 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-12 12:32:01,843 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F41A8F0>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-12 12:32:01,845 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-12 12:32:01,846 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-12 12:32:01,847 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F418730>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-12 12:32:01,847 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-12 12:32:01,848 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-12 12:37:01,856 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-12 12:37:01,862 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F41A260>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-12 12:37:01,871 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-12 12:37:01,871 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-12 12:37:01,876 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F3A3A90>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-12 12:37:01,878 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-12 12:37:01,881 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-12 12:42:01,883 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-12 12:42:01,893 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F419150>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-12 12:42:01,896 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-12 12:42:01,896 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-12 12:42:01,902 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F41BDC0>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-12 12:42:01,907 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-12 12:42:01,907 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-12 12:47:01,920 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-12 12:47:01,924 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F418460>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-12 12:47:01,926 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-12 12:47:01,926 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-12 12:47:01,930 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F4194E0>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-12 12:47:01,932 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-12 12:47:01,932 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-12 12:52:01,954 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-12 12:52:01,964 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F419180>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-12 12:52:01,966 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-12 12:52:01,966 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-12 12:52:01,974 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F4195D0>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-12 12:52:01,978 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-12 12:52:01,979 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-12 12:57:01,988 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-12 12:57:02,002 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F4183A0>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-12 12:57:02,004 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-12 12:57:02,005 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-12 12:57:02,010 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F418D00>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-12 12:57:02,012 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-12 12:57:02,012 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-12 13:02:02,020 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-12 13:02:02,032 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F5F47C0>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-12 13:02:02,035 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-12 13:02:02,035 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-12 13:02:02,039 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F41B7C0>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-12 13:02:02,041 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-12 13:02:02,041 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-12 13:07:02,057 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-12 13:07:02,062 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F418190>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-12 13:07:02,064 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-12 13:07:02,064 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-12 13:07:02,068 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F419E70>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-12 13:07:02,070 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-12 13:07:02,070 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-12 13:12:02,083 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-12 13:12:02,087 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F4193C0>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-12 13:12:02,089 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-12 13:12:02,089 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-12 13:12:02,092 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F419840>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-12 13:12:02,093 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-12 13:12:02,093 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-12 13:17:02,107 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-12 13:17:02,112 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F41A770>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-12 13:17:02,114 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-12 13:17:02,114 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-12 13:17:02,118 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F41A290>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-12 13:17:02,119 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-12 13:17:02,120 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-12 13:22:02,132 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-12 13:22:02,138 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F41B250>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-12 13:22:02,140 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-12 13:22:02,140 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-12 13:22:02,143 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F5F49A0>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-12 13:22:02,144 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-12 13:22:02,144 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-12 13:27:02,152 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-12 13:27:02,157 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F5F4730>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-12 13:27:02,158 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-12 13:27:02,159 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-12 13:27:02,163 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F3A2920>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-12 13:27:02,164 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-12 13:27:02,164 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-12 13:32:02,171 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-12 13:32:02,179 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F41A230>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-12 13:32:02,182 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-12 13:32:02,182 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-12 13:32:02,189 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F41AE90>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-12 13:32:02,191 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-12 13:32:02,191 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-12 22:15:59,891 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-12 22:16:00,473 [INFO] 💰 BTCUSDT price: 70355.5200
+2026-03-12 22:16:00,487 [INFO] 📈 Technical Signal: HOLD | RSI: 55.1 | EMA: BULLISH
+2026-03-12 22:16:02,206 [WARNING] ⚠️  News fetch failed for BTC: unhashable type: 'slice'
+2026-03-12 22:16:03,426 [INFO] 📰 BTC news: NEUTRAL (-0.01) | Sample: 'Bitcoin's mined supply hits 20 million milestone, leaving fi...'
+2026-03-12 22:16:03,426 [INFO] 📰 News Sentiment: NEUTRAL (-0.01)
+2026-03-12 22:16:03,426 [INFO] 🧠 Decision: HOLD
+2026-03-12 22:16:03,426 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-12 22:16:03,658 [INFO] 💰 ETHUSDT price: 2068.3500
+2026-03-12 22:16:03,662 [INFO] 📈 Technical Signal: HOLD | RSI: 54.2 | EMA: BULLISH
+2026-03-12 22:16:04,758 [WARNING] ⚠️  News fetch failed for ETH: unhashable type: 'slice'
+2026-03-12 22:16:06,488 [INFO] 📰 ETH news: NEUTRAL (-0.04) | Sample: 'Ethereum's on fire with record activity, but ether price and...'
+2026-03-12 22:16:06,488 [INFO] 📰 News Sentiment: NEUTRAL (-0.04)
+2026-03-12 22:16:06,489 [INFO] 🧠 Decision: HOLD
+2026-03-12 22:16:06,489 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-12 22:21:06,497 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-12 22:21:06,989 [INFO] 💰 BTCUSDT price: 70452.3700
+2026-03-12 22:21:06,994 [INFO] 📈 Technical Signal: HOLD | RSI: 57.1 | EMA: BULLISH
+2026-03-12 22:21:06,994 [INFO] 📰 News Sentiment: NEUTRAL (-0.01)
+2026-03-12 22:21:06,994 [INFO] 🧠 Decision: HOLD
+2026-03-12 22:21:06,994 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-12 22:21:07,225 [INFO] 💰 ETHUSDT price: 2071.3000
+2026-03-12 22:21:07,229 [INFO] 📈 Technical Signal: HOLD | RSI: 56.0 | EMA: BULLISH
+2026-03-12 22:21:07,229 [INFO] 📰 News Sentiment: NEUTRAL (-0.04)
+2026-03-12 22:21:07,229 [INFO] 🧠 Decision: HOLD
+2026-03-12 22:21:07,229 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-12 22:26:07,241 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-12 22:26:07,783 [INFO] 💰 BTCUSDT price: 70433.9700
+2026-03-12 22:26:07,788 [INFO] 📈 Technical Signal: HOLD | RSI: 56.7 | EMA: BULLISH
+2026-03-12 22:26:09,228 [WARNING] ⚠️  News fetch failed for BTC: unhashable type: 'slice'
+2026-03-12 22:26:10,537 [INFO] 📰 BTC news: NEUTRAL (-0.01) | Sample: 'Bitcoin's mined supply hits 20 million milestone, leaving fi...'
+2026-03-12 22:26:10,537 [INFO] 📰 News Sentiment: NEUTRAL (-0.01)
+2026-03-12 22:26:10,537 [INFO] 🧠 Decision: HOLD
+2026-03-12 22:26:10,537 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-12 22:26:10,767 [INFO] 💰 ETHUSDT price: 2069.9900
+2026-03-12 22:26:10,778 [INFO] 📈 Technical Signal: HOLD | RSI: 55.2 | EMA: BULLISH
+2026-03-12 22:26:12,095 [WARNING] ⚠️  News fetch failed for ETH: unhashable type: 'slice'
+2026-03-12 22:26:13,418 [INFO] 📰 ETH news: NEUTRAL (-0.04) | Sample: 'Ethereum's on fire with record activity, but ether price and...'
+2026-03-12 22:26:13,418 [INFO] 📰 News Sentiment: NEUTRAL (-0.04)
+2026-03-12 22:26:13,418 [INFO] 🧠 Decision: HOLD
+2026-03-12 22:26:13,418 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-12 22:31:13,428 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-12 22:31:14,007 [INFO] 💰 BTCUSDT price: 70399.5000
+2026-03-12 22:31:14,019 [INFO] 📈 Technical Signal: HOLD | RSI: 56.1 | EMA: BULLISH
+2026-03-12 22:31:14,019 [INFO] 📰 News Sentiment: NEUTRAL (-0.01)
+2026-03-12 22:31:14,019 [INFO] 🧠 Decision: HOLD
+2026-03-12 22:31:14,019 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-12 22:31:14,283 [INFO] 💰 ETHUSDT price: 2069.5600
+2026-03-12 22:31:14,287 [INFO] 📈 Technical Signal: HOLD | RSI: 55.0 | EMA: BULLISH
+2026-03-12 22:31:14,287 [INFO] 📰 News Sentiment: NEUTRAL (-0.04)
+2026-03-12 22:31:14,287 [INFO] 🧠 Decision: HOLD
+2026-03-12 22:31:14,287 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-12 22:36:14,293 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-12 22:36:15,040 [INFO] 💰 BTCUSDT price: 70483.0000
+2026-03-12 22:36:15,047 [INFO] 📈 Technical Signal: HOLD | RSI: 57.8 | EMA: BULLISH
+2026-03-12 22:36:16,568 [WARNING] ⚠️  News fetch failed for BTC: unhashable type: 'slice'
+2026-03-12 22:36:17,717 [INFO] 📰 BTC news: NEUTRAL (-0.01) | Sample: 'Bitcoin's mined supply hits 20 million milestone, leaving fi...'
+2026-03-12 22:36:17,718 [INFO] 📰 News Sentiment: NEUTRAL (-0.01)
+2026-03-12 22:36:17,718 [INFO] 🧠 Decision: HOLD
+2026-03-12 22:36:17,718 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-12 22:36:17,999 [INFO] 💰 ETHUSDT price: 2071.3700
+2026-03-12 22:36:18,003 [INFO] 📈 Technical Signal: HOLD | RSI: 56.0 | EMA: BULLISH
+2026-03-12 22:36:19,022 [WARNING] ⚠️  News fetch failed for ETH: unhashable type: 'slice'
+2026-03-12 22:36:20,241 [INFO] 📰 ETH news: NEUTRAL (-0.06) | Sample: 'Ethereum's on fire with record activity, but ether price and...'
+2026-03-12 22:36:20,242 [INFO] 📰 News Sentiment: NEUTRAL (-0.06)
+2026-03-12 22:36:20,242 [INFO] 🧠 Decision: HOLD
+2026-03-12 22:36:20,242 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-12 22:41:20,254 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-12 22:41:20,841 [INFO] 💰 BTCUSDT price: 70429.9800
+2026-03-12 22:41:20,852 [INFO] 📈 Technical Signal: HOLD | RSI: 56.8 | EMA: BULLISH
+2026-03-12 22:41:20,852 [INFO] 📰 News Sentiment: NEUTRAL (-0.01)
+2026-03-12 22:41:20,852 [INFO] 🧠 Decision: HOLD
+2026-03-12 22:41:20,852 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-12 22:41:21,117 [INFO] 💰 ETHUSDT price: 2069.9300
+2026-03-12 22:41:21,127 [INFO] 📈 Technical Signal: HOLD | RSI: 55.2 | EMA: BULLISH
+2026-03-12 22:41:21,128 [INFO] 📰 News Sentiment: NEUTRAL (-0.06)
+2026-03-12 22:41:21,128 [INFO] 🧠 Decision: HOLD
+2026-03-12 22:41:21,128 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-12 22:46:21,141 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-12 22:46:21,814 [INFO] 💰 BTCUSDT price: 70369.1500
+2026-03-12 22:46:21,820 [INFO] 📈 Technical Signal: HOLD | RSI: 55.0 | EMA: BULLISH
+2026-03-12 22:46:22,962 [WARNING] ⚠️  News fetch failed for BTC: unhashable type: 'slice'
+2026-03-12 22:46:24,107 [INFO] 📰 BTC news: NEUTRAL (-0.01) | Sample: 'Bitcoin's mined supply hits 20 million milestone, leaving fi...'
+2026-03-12 22:46:24,107 [INFO] 📰 News Sentiment: NEUTRAL (-0.01)
+2026-03-12 22:46:24,107 [INFO] 🧠 Decision: HOLD
+2026-03-12 22:46:24,107 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-12 22:46:24,342 [INFO] 💰 ETHUSDT price: 2066.5800
+2026-03-12 22:46:24,348 [INFO] 📈 Technical Signal: HOLD | RSI: 52.7 | EMA: BULLISH
+2026-03-12 22:46:25,240 [WARNING] ⚠️  News fetch failed for ETH: unhashable type: 'slice'
+2026-03-12 22:46:26,465 [INFO] 📰 ETH news: NEUTRAL (-0.06) | Sample: 'Ethereum's on fire with record activity, but ether price and...'
+2026-03-12 22:46:26,466 [INFO] 📰 News Sentiment: NEUTRAL (-0.06)
+2026-03-12 22:46:26,466 [INFO] 🧠 Decision: HOLD
+2026-03-12 22:46:26,466 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-12 22:51:26,472 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-12 22:51:26,492 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F41A8C0>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-12 22:51:26,495 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-12 22:51:26,495 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-12 22:51:26,499 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F41A3B0>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-12 22:51:26,500 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-12 22:51:26,500 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-12 22:56:46,044 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-12 22:56:46,051 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F419030>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-12 22:56:46,053 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-12 22:56:46,053 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-12 22:56:46,057 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F418190>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-12 22:56:46,058 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-12 22:56:46,058 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-12 23:01:46,063 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-12 23:01:46,068 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F418430>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-12 23:01:46,069 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-12 23:01:46,070 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-12 23:01:46,076 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F5F4BB0>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-12 23:01:46,077 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-12 23:01:46,077 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-12 23:06:46,088 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-12 23:06:46,094 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F41B910>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-12 23:06:46,095 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-12 23:06:46,096 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-12 23:06:46,099 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F418AF0>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-12 23:06:46,100 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-12 23:06:46,101 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-12 23:11:46,101 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-12 23:11:46,108 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F41A590>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-12 23:11:46,109 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-12 23:11:46,109 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-12 23:11:46,113 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F41A380>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-12 23:11:46,115 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-12 23:11:46,115 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-12 23:16:46,121 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-12 23:16:46,126 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F419E10>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-12 23:16:46,127 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-12 23:16:46,128 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-12 23:16:46,132 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F41AB60>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-12 23:16:46,133 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-12 23:16:46,133 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-12 23:21:46,142 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-12 23:21:46,147 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F419C00>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-12 23:21:46,148 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-12 23:21:46,148 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-12 23:21:46,152 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F41B280>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-12 23:21:46,153 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-12 23:21:46,153 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-12 23:26:46,164 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-12 23:26:46,169 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F5F5270>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-12 23:26:46,171 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-12 23:26:46,171 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-12 23:26:46,175 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F5F57B0>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-12 23:26:46,176 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-12 23:26:46,176 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-12 23:31:46,186 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-12 23:31:46,191 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F419150>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-12 23:31:46,193 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-12 23:31:46,193 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-12 23:31:46,198 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F41B700>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-12 23:31:46,199 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-12 23:31:46,199 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-12 23:36:46,206 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-12 23:36:46,211 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F41A1A0>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-12 23:36:46,212 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-12 23:36:46,212 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-12 23:36:46,217 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F41A9B0>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-12 23:36:46,218 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-12 23:36:46,218 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-12 23:41:46,229 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-12 23:41:46,234 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F41B3D0>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-12 23:41:46,235 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-12 23:41:46,236 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-12 23:41:46,240 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F41A7D0>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-12 23:41:46,241 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-12 23:41:46,242 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-12 23:46:46,250 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-12 23:46:46,254 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F419690>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-12 23:46:46,255 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-12 23:46:46,255 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-12 23:46:46,259 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F5F5420>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-12 23:46:46,260 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-12 23:46:46,261 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-12 23:51:46,264 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-12 23:51:46,271 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F5F5120>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-12 23:51:46,272 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-12 23:51:46,272 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-12 23:51:46,278 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F5F5CF0>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-12 23:51:46,279 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-12 23:51:46,279 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-12 23:56:46,292 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-12 23:56:46,297 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F4196F0>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-12 23:56:46,298 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-12 23:56:46,299 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-12 23:56:46,303 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F418AF0>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-12 23:56:46,304 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-12 23:56:46,304 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-13 00:01:46,320 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-13 00:01:46,325 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F4198D0>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-13 00:01:46,326 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-13 00:01:46,327 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-13 00:01:46,331 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F41A800>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-13 00:01:46,332 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-13 00:01:46,333 [INFO] 📊 Daily Report — 2026-03-13
+Total Trades: 0
+Wins: 0 | Losses: 0
+Win Rate: 0.0%
+Total PnL: +0.00 USDT
+2026-03-13 00:01:46,344 [WARNING] ⚠️  Telegram error: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8563996544:AAGjP-4CHhuprgWqer2llSsIy15M0KwS9-g/sendMessage (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F419AE0>: Failed to resolve 'api.telegram.org' ([Errno 11001] getaddrinfo failed)"))
+2026-03-13 00:01:46,344 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-13 00:06:46,355 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-13 00:06:46,361 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F41BF10>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-13 00:06:46,363 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-13 00:06:46,363 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-13 00:06:46,367 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F5F5F30>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-13 00:06:46,368 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-13 00:06:46,369 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-13 00:11:46,378 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-13 00:11:46,383 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F5F52A0>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-13 00:11:46,384 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-13 00:11:46,385 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-13 00:11:46,389 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F5F6080>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-13 00:11:46,391 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-13 00:11:46,392 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-13 00:16:46,396 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-13 00:16:46,402 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F418940>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-13 00:16:46,404 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-13 00:16:46,404 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-13 00:16:46,408 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F419780>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-13 00:16:46,409 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-13 00:16:46,410 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-13 00:21:46,423 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-13 00:21:46,429 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F4194E0>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-13 00:21:46,431 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-13 00:21:46,431 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-13 00:21:46,435 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F418A90>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-13 00:21:46,436 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-13 00:21:46,436 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-13 00:26:46,442 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-13 00:26:46,468 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F4198D0>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-13 00:26:46,469 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-13 00:26:46,470 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-13 00:26:46,474 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F418190>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-13 00:26:46,476 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-13 00:26:46,476 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-13 00:31:46,479 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-13 00:31:46,483 [ERROR] ❌ Failed to fetch data for BTCUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F41AF20>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-13 00:31:46,484 [WARNING] ⚠️  No data for BTCUSDT
+2026-03-13 00:31:46,485 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-13 00:31:46,488 [ERROR] ❌ Failed to fetch data for ETHUSDT: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/klines?interval=15m&limit=100&symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001855F5F6500>: Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-13 00:31:46,489 [WARNING] ⚠️  No data for ETHUSDT
+2026-03-13 00:31:46,490 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-13 00:36:46,500 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-13 00:36:46,967 [INFO] 💰 BTCUSDT price: 69895.3600
+2026-03-13 00:36:46,975 [INFO] 📈 Technical Signal: HOLD | RSI: 43.4 | EMA: BEARISH
+2026-03-13 00:36:48,070 [WARNING] ⚠️  News fetch failed for BTC: unhashable type: 'slice'
+2026-03-13 00:36:49,269 [INFO] 📰 BTC news: NEUTRAL (-0.06) | Sample: 'BTC trapped in tight range as growing open interest hints at...'
+2026-03-13 00:36:49,269 [INFO] 📰 News Sentiment: NEUTRAL (-0.06)
+2026-03-13 00:36:49,269 [INFO] 🧠 Decision: HOLD
+2026-03-13 00:36:49,270 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-13 00:36:49,482 [INFO] 💰 ETHUSDT price: 2050.6100
+2026-03-13 00:36:49,487 [INFO] 📈 Technical Signal: HOLD | RSI: 43.1 | EMA: BEARISH
+2026-03-13 00:36:50,629 [WARNING] ⚠️  News fetch failed for ETH: unhashable type: 'slice'
+2026-03-13 00:36:51,689 [INFO] 📰 ETH news: NEUTRAL (-0.06) | Sample: 'Ethereum’s (ETH) Panic Sellers Are Gone — Is $2,700 Next? - ...'
+2026-03-13 00:36:51,690 [INFO] 📰 News Sentiment: NEUTRAL (-0.06)
+2026-03-13 00:36:51,690 [INFO] 🧠 Decision: HOLD
+2026-03-13 00:36:51,690 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-13 00:41:51,703 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-13 00:41:52,132 [INFO] 💰 BTCUSDT price: 69821.4900
+2026-03-13 00:41:52,138 [INFO] 📈 Technical Signal: HOLD | RSI: 41.1 | EMA: BEARISH
+2026-03-13 00:41:52,138 [INFO] 📰 News Sentiment: NEUTRAL (-0.06)
+2026-03-13 00:41:52,139 [INFO] 🧠 Decision: HOLD
+2026-03-13 00:41:52,139 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-13 00:41:52,348 [INFO] 💰 ETHUSDT price: 2047.6000
+2026-03-13 00:41:52,354 [INFO] 📈 Technical Signal: HOLD | RSI: 40.8 | EMA: BEARISH
+2026-03-13 00:41:52,354 [INFO] 📰 News Sentiment: NEUTRAL (-0.06)
+2026-03-13 00:41:52,354 [INFO] 🧠 Decision: HOLD
+2026-03-13 00:41:52,354 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-13 00:46:52,354 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-13 00:46:52,897 [INFO] 💰 BTCUSDT price: 69994.9600
+2026-03-13 00:46:52,904 [INFO] 📈 Technical Signal: HOLD | RSI: 46.6 | EMA: BEARISH
+2026-03-13 00:46:54,047 [WARNING] ⚠️  News fetch failed for BTC: unhashable type: 'slice'
+2026-03-13 00:46:55,175 [INFO] 📰 BTC news: NEGATIVE (-0.11) | Sample: 'BTC trapped in tight range as growing open interest hints at...'
+2026-03-13 00:46:55,175 [INFO] 📰 News Sentiment: NEGATIVE (-0.11)
+2026-03-13 00:46:55,175 [INFO] 🧠 Decision: HOLD
+2026-03-13 00:46:55,175 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-13 00:46:55,395 [INFO] 💰 ETHUSDT price: 2051.7800
+2026-03-13 00:46:55,402 [INFO] 📈 Technical Signal: HOLD | RSI: 44.3 | EMA: BEARISH
+2026-03-13 00:46:56,381 [WARNING] ⚠️  News fetch failed for ETH: unhashable type: 'slice'
+2026-03-13 00:46:57,441 [INFO] 📰 ETH news: NEUTRAL (-0.06) | Sample: 'Ethereum’s (ETH) Panic Sellers Are Gone — Is $2,700 Next? - ...'
+2026-03-13 00:46:57,441 [INFO] 📰 News Sentiment: NEUTRAL (-0.06)
+2026-03-13 00:46:57,442 [INFO] 🧠 Decision: HOLD
+2026-03-13 00:46:57,442 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-13 00:51:57,451 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-13 00:51:57,974 [INFO] 💰 BTCUSDT price: 70078.8200
+2026-03-13 00:51:57,980 [INFO] 📈 Technical Signal: HOLD | RSI: 49.0 | EMA: BEARISH
+2026-03-13 00:51:57,981 [INFO] 📰 News Sentiment: NEGATIVE (-0.11)
+2026-03-13 00:51:57,981 [INFO] 🧠 Decision: HOLD
+2026-03-13 00:51:57,981 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-13 00:51:58,190 [INFO] 💰 ETHUSDT price: 2056.1500
+2026-03-13 00:51:58,197 [INFO] 📈 Technical Signal: HOLD | RSI: 47.9 | EMA: BEARISH
+2026-03-13 00:51:58,197 [INFO] 📰 News Sentiment: NEUTRAL (-0.06)
+2026-03-13 00:51:58,198 [INFO] 🧠 Decision: HOLD
+2026-03-13 00:51:58,198 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-13 00:56:58,211 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-13 00:56:58,768 [INFO] 💰 BTCUSDT price: 70125.6900
+2026-03-13 00:56:58,771 [INFO] 📈 Technical Signal: HOLD | RSI: 50.2 | EMA: BEARISH
+2026-03-13 00:56:59,855 [WARNING] ⚠️  News fetch failed for BTC: unhashable type: 'slice'
+2026-03-13 00:57:00,946 [INFO] 📰 BTC news: NEGATIVE (-0.11) | Sample: 'BTC trapped in tight range as growing open interest hints at...'
+2026-03-13 00:57:00,946 [INFO] 📰 News Sentiment: NEGATIVE (-0.11)
+2026-03-13 00:57:00,946 [INFO] 🧠 Decision: HOLD
+2026-03-13 00:57:00,946 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-13 00:57:01,148 [INFO] 💰 ETHUSDT price: 2059.5900
+2026-03-13 00:57:01,151 [INFO] 📈 Technical Signal: HOLD | RSI: 50.3 | EMA: BEARISH
+2026-03-13 00:57:02,227 [WARNING] ⚠️  News fetch failed for ETH: unhashable type: 'slice'
+2026-03-13 00:57:03,280 [INFO] 📰 ETH news: NEUTRAL (-0.06) | Sample: 'Ethereum’s (ETH) Panic Sellers Are Gone — Is $2,700 Next? - ...'
+2026-03-13 00:57:03,280 [INFO] 📰 News Sentiment: NEUTRAL (-0.06)
+2026-03-13 00:57:03,280 [INFO] 🧠 Decision: HOLD
+2026-03-13 00:57:03,281 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-13 01:02:03,292 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-13 01:02:03,754 [INFO] 💰 BTCUSDT price: 70328.5900
+2026-03-13 01:02:03,762 [INFO] 📈 Technical Signal: HOLD | RSI: 55.1 | EMA: BEARISH
+2026-03-13 01:02:03,762 [INFO] 📰 News Sentiment: NEGATIVE (-0.11)
+2026-03-13 01:02:03,762 [INFO] 🧠 Decision: HOLD
+2026-03-13 01:02:03,763 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-13 01:02:03,972 [INFO] 💰 ETHUSDT price: 2066.2600
+2026-03-13 01:02:03,983 [INFO] 📈 Technical Signal: HOLD | RSI: 54.7 | EMA: BEARISH
+2026-03-13 01:02:03,984 [INFO] 📰 News Sentiment: NEUTRAL (-0.06)
+2026-03-13 01:02:03,984 [INFO] 🧠 Decision: HOLD
+2026-03-13 01:02:03,984 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-13 01:07:03,994 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-13 01:07:04,504 [INFO] 💰 BTCUSDT price: 70288.6800
+2026-03-13 01:07:04,509 [INFO] 📈 Technical Signal: HOLD | RSI: 54.2 | EMA: BEARISH
+2026-03-13 01:07:05,491 [WARNING] ⚠️  News fetch failed for BTC: unhashable type: 'slice'
+2026-03-13 01:07:06,570 [INFO] 📰 BTC news: NEGATIVE (-0.11) | Sample: 'BTC trapped in tight range as growing open interest hints at...'
+2026-03-13 01:07:06,571 [INFO] 📰 News Sentiment: NEGATIVE (-0.11)
+2026-03-13 01:07:06,571 [INFO] 🧠 Decision: HOLD
+2026-03-13 01:07:06,571 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-13 01:07:06,802 [INFO] 💰 ETHUSDT price: 2066.3800
+2026-03-13 01:07:06,807 [INFO] 📈 Technical Signal: HOLD | RSI: 54.7 | EMA: BEARISH
+2026-03-13 01:07:07,696 [WARNING] ⚠️  News fetch failed for ETH: unhashable type: 'slice'
+2026-03-13 01:07:08,787 [INFO] 📰 ETH news: NEUTRAL (-0.06) | Sample: 'Ethereum’s (ETH) Panic Sellers Are Gone — Is $2,700 Next? - ...'
+2026-03-13 01:07:08,787 [INFO] 📰 News Sentiment: NEUTRAL (-0.06)
+2026-03-13 01:07:08,787 [INFO] 🧠 Decision: HOLD
+2026-03-13 01:07:08,787 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-13 01:12:08,794 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-13 01:12:09,260 [INFO] 💰 BTCUSDT price: 70299.0700
+2026-03-13 01:12:09,273 [INFO] 📈 Technical Signal: HOLD | RSI: 54.4 | EMA: BEARISH
+2026-03-13 01:12:09,274 [INFO] 📰 News Sentiment: NEGATIVE (-0.11)
+2026-03-13 01:12:09,274 [INFO] 🧠 Decision: HOLD
+2026-03-13 01:12:09,274 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-13 01:12:09,484 [INFO] 💰 ETHUSDT price: 2066.7500
+2026-03-13 01:12:09,490 [INFO] 📈 Technical Signal: HOLD | RSI: 55.0 | EMA: BEARISH
+2026-03-13 01:12:09,490 [INFO] 📰 News Sentiment: NEUTRAL (-0.06)
+2026-03-13 01:12:09,490 [INFO] 🧠 Decision: HOLD
+2026-03-13 01:12:09,490 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-13 01:17:09,496 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-13 01:17:10,029 [INFO] 💰 BTCUSDT price: 70307.8900
+2026-03-13 01:17:10,036 [INFO] ⚠️  Low volume (13 vs avg 259), downgrading signal
+2026-03-13 01:17:10,036 [INFO] 📈 Technical Signal: HOLD | RSI: 54.7 | EMA: BULLISH
+2026-03-13 01:17:11,104 [WARNING] ⚠️  News fetch failed for BTC: unhashable type: 'slice'
+2026-03-13 01:17:12,187 [INFO] 📰 BTC news: NEUTRAL (-0.06) | Sample: 'BTC trapped in tight range as growing open interest hints at...'
+2026-03-13 01:17:12,188 [INFO] 📰 News Sentiment: NEUTRAL (-0.06)
+2026-03-13 01:17:12,188 [INFO] 🧠 Decision: HOLD
+2026-03-13 01:17:12,188 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-13 01:17:12,400 [INFO] 💰 ETHUSDT price: 2069.7000
+2026-03-13 01:17:12,404 [INFO] ⚠️  Low volume (284 vs avg 4336), downgrading signal
+2026-03-13 01:17:12,405 [INFO] 📈 Technical Signal: HOLD | RSI: 56.8 | EMA: BULLISH
+2026-03-13 01:17:13,303 [WARNING] ⚠️  News fetch failed for ETH: unhashable type: 'slice'
+2026-03-13 01:17:14,355 [INFO] 📰 ETH news: NEUTRAL (-0.06) | Sample: 'Ethereum’s (ETH) Panic Sellers Are Gone — Is $2,700 Next? - ...'
+2026-03-13 01:17:14,355 [INFO] 📰 News Sentiment: NEUTRAL (-0.06)
+2026-03-13 01:17:14,355 [INFO] 🧠 Decision: HOLD
+2026-03-13 01:17:14,356 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-13 01:22:14,357 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-13 01:22:14,759 [INFO] 💰 BTCUSDT price: 70428.6500
+2026-03-13 01:22:14,762 [INFO] ⚠️  Low volume (73 vs avg 262), downgrading signal
+2026-03-13 01:22:14,762 [INFO] 📈 Technical Signal: HOLD | RSI: 57.5 | EMA: BULLISH
+2026-03-13 01:22:14,762 [INFO] 📰 News Sentiment: NEUTRAL (-0.06)
+2026-03-13 01:22:14,762 [INFO] 🧠 Decision: HOLD
+2026-03-13 01:22:14,762 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-13 01:22:14,957 [INFO] 💰 ETHUSDT price: 2071.3000
+2026-03-13 01:22:14,959 [INFO] ⚠️  Low volume (1609 vs avg 4402), downgrading signal
+2026-03-13 01:22:14,960 [INFO] 📈 Technical Signal: HOLD | RSI: 57.7 | EMA: BULLISH
+2026-03-13 01:22:14,960 [INFO] 📰 News Sentiment: NEUTRAL (-0.06)
+2026-03-13 01:22:14,960 [INFO] 🧠 Decision: HOLD
+2026-03-13 01:22:14,960 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-13 01:27:14,974 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-13 01:27:15,494 [INFO] 💰 BTCUSDT price: 70449.9900
+2026-03-13 01:27:15,499 [INFO] ⚠️  Low volume (188 vs avg 268), downgrading signal
+2026-03-13 01:27:15,499 [INFO] 📈 Technical Signal: HOLD | RSI: 57.9 | EMA: BULLISH
+2026-03-13 01:27:16,584 [WARNING] ⚠️  News fetch failed for BTC: unhashable type: 'slice'
+2026-03-13 01:27:17,674 [INFO] 📰 BTC news: NEUTRAL (-0.06) | Sample: 'BTC trapped in tight range as growing open interest hints at...'
+2026-03-13 01:27:17,674 [INFO] 📰 News Sentiment: NEUTRAL (-0.06)
+2026-03-13 01:27:17,675 [INFO] 🧠 Decision: HOLD
+2026-03-13 01:27:17,675 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-13 01:27:17,902 [INFO] 💰 ETHUSDT price: 2069.7500
+2026-03-13 01:27:17,907 [INFO] ⚠️  Low volume (2511 vs avg 4447), downgrading signal
+2026-03-13 01:27:17,907 [INFO] 📈 Technical Signal: HOLD | RSI: 56.8 | EMA: BULLISH
+2026-03-13 01:27:18,799 [WARNING] ⚠️  News fetch failed for ETH: unhashable type: 'slice'
+2026-03-13 01:27:19,801 [INFO] 📰 ETH news: NEUTRAL (-0.06) | Sample: 'Ethereum’s (ETH) Panic Sellers Are Gone — Is $2,700 Next? - ...'
+2026-03-13 01:27:19,801 [INFO] 📰 News Sentiment: NEUTRAL (-0.06)
+2026-03-13 01:27:19,801 [INFO] 🧠 Decision: HOLD
+2026-03-13 01:27:19,801 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-13 01:32:19,806 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-13 01:32:20,368 [INFO] 💰 BTCUSDT price: 70486.7300
+2026-03-13 01:32:20,374 [INFO] 📈 Technical Signal: HOLD | RSI: 58.8 | EMA: BULLISH
+2026-03-13 01:32:20,374 [INFO] 📰 News Sentiment: NEUTRAL (-0.06)
+2026-03-13 01:32:20,374 [INFO] 🧠 Decision: HOLD
+2026-03-13 01:32:20,374 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-13 01:32:20,589 [INFO] 💰 ETHUSDT price: 2070.4900
+2026-03-13 01:32:20,593 [INFO] 📈 Technical Signal: HOLD | RSI: 57.3 | EMA: BULLISH
+2026-03-13 01:32:20,593 [INFO] 📰 News Sentiment: NEUTRAL (-0.06)
+2026-03-13 01:32:20,593 [INFO] 🧠 Decision: HOLD
+2026-03-13 01:32:20,593 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-13 01:32:57,424 [INFO] 🚀 Initializing Smart Trading Bot...
+2026-03-13 01:32:58,710 [INFO] [OK] Telegram alerts enabled
+2026-03-13 01:32:58,710 [INFO] ✅ Bot ready | Mode: PAPER | Pairs: ['BTCUSDT', 'ETHUSDT']
+2026-03-13 01:32:58,711 [INFO] ▶️  Bot started. Press Ctrl+C to stop.
+2026-03-13 01:32:59,855 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-13 01:33:00,112 [INFO] 💰 BTCUSDT price: 70451.1200
+2026-03-13 01:33:00,116 [INFO] 📈 Technical Signal: HOLD | RSI: 58.0 | EMA: BULLISH
+2026-03-13 01:33:01,389 [WARNING] ⚠️  CryptoCompare fetch failed for BTC: unhashable type: 'slice'
+2026-03-13 01:33:02,480 [INFO] 📰 BTC news: NEUTRAL (-0.06) | Sample: 'BTC trapped in tight range as growing open interest hints at...'
+2026-03-13 01:33:02,481 [INFO] 📰 News Sentiment: NEUTRAL (-0.06)
+2026-03-13 01:33:02,481 [INFO] 🧠 Decision: HOLD
+2026-03-13 01:33:02,482 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-13 01:33:02,849 [INFO] 💰 ETHUSDT price: 2071.1600
+2026-03-13 01:33:02,854 [INFO] 📈 Technical Signal: HOLD | RSI: 57.8 | EMA: BULLISH
+2026-03-13 01:33:03,114 [WARNING] ⚠️  CryptoCompare fetch failed for ETH: unhashable type: 'slice'
+2026-03-13 01:33:03,783 [INFO] 📰 ETH news: NEUTRAL (-0.03) | Sample: 'Ethereum’s (ETH) Panic Sellers Are Gone — Is $2,700 Next? - ...'
+2026-03-13 01:33:03,784 [INFO] 📰 News Sentiment: NEUTRAL (-0.03)
+2026-03-13 01:33:03,784 [INFO] 🧠 Decision: HOLD
+2026-03-13 01:33:03,785 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-13 01:37:16,219 [INFO] 🛑 Bot stopped by user.
+2026-03-13 01:37:20,595 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-13 01:37:21,240 [INFO] 💰 BTCUSDT price: 70506.1800
+2026-03-13 01:37:21,246 [INFO] 📈 Technical Signal: HOLD | RSI: 59.3 | EMA: BULLISH
+2026-03-13 01:37:22,248 [WARNING] ⚠️  News fetch failed for BTC: unhashable type: 'slice'
+2026-03-13 01:37:23,478 [INFO] 📰 BTC news: NEGATIVE (-0.20) | Sample: 'BTC trapped in tight range as growing open interest hints at...'
+2026-03-13 01:37:23,479 [INFO] 📰 News Sentiment: NEGATIVE (-0.20)
+2026-03-13 01:37:23,479 [INFO] 🧠 Decision: HOLD
+2026-03-13 01:37:23,479 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-13 01:37:23,710 [INFO] 💰 ETHUSDT price: 2070.5900
+2026-03-13 01:37:23,715 [INFO] 📈 Technical Signal: HOLD | RSI: 57.4 | EMA: BULLISH
+2026-03-13 01:37:24,658 [WARNING] ⚠️  News fetch failed for ETH: unhashable type: 'slice'
+2026-03-13 01:37:25,769 [INFO] 📰 ETH news: NEUTRAL (-0.03) | Sample: 'Ethereum’s (ETH) Panic Sellers Are Gone — Is $2,700 Next? - ...'
+2026-03-13 01:37:25,769 [INFO] 📰 News Sentiment: NEUTRAL (-0.03)
+2026-03-13 01:37:25,769 [INFO] 🧠 Decision: HOLD
+2026-03-13 01:37:25,769 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-13 01:37:25,847 [INFO] 🚀 Initializing Smart Trading Bot...
+2026-03-13 01:37:26,699 [INFO] [OK] Telegram alerts enabled
+2026-03-13 01:37:26,700 [INFO] ✅ Bot ready | Mode: PAPER | Pairs: ['BTCUSDT', 'ETHUSDT', 'SOLUSDT']
+2026-03-13 01:37:26,701 [INFO] ▶️  Bot started. Press Ctrl+C to stop.
+2026-03-13 01:37:27,683 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-13 01:37:27,930 [INFO] 💰 BTCUSDT price: 70499.5200
+2026-03-13 01:37:27,938 [INFO] 📈 Technical Signal: HOLD | RSI: 59.1 | EMA: BULLISH
+2026-03-13 01:37:29,618 [WARNING] ⚠️  CryptoCompare 'Data' is not a list for BTC
+2026-03-13 01:37:30,657 [INFO] 📰 BTC news: NEGATIVE (-0.19) | Sample: 'The Emperor has no wallet...'
+2026-03-13 01:37:30,658 [INFO] 📰 News Sentiment: NEGATIVE (-0.19)
+2026-03-13 01:37:30,658 [INFO] 🧠 Decision: HOLD
+2026-03-13 01:37:30,658 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-13 01:37:30,906 [INFO] 💰 ETHUSDT price: 2070.5800
+2026-03-13 01:37:30,912 [INFO] 📈 Technical Signal: HOLD | RSI: 57.4 | EMA: BULLISH
+2026-03-13 01:37:31,687 [WARNING] ⚠️  CryptoCompare 'Data' is not a list for ETH
+2026-03-13 01:37:32,331 [INFO] 📰 ETH news: NEGATIVE (-0.19) | Sample: 'The Emperor has no wallet...'
+2026-03-13 01:37:32,332 [INFO] 📰 News Sentiment: NEGATIVE (-0.19)
+2026-03-13 01:37:32,332 [INFO] 🧠 Decision: HOLD
+2026-03-13 01:37:32,333 [INFO] 
+📊 Analyzing SOLUSDT...
+2026-03-13 01:37:32,587 [INFO] 💰 SOLUSDT price: 86.7800
+2026-03-13 01:37:32,593 [INFO] 📈 Technical Signal: HOLD | RSI: 55.4 | EMA: BULLISH
+2026-03-13 01:37:33,668 [WARNING] ⚠️  CryptoCompare 'Data' is not a list for SOL
+2026-03-13 01:37:34,303 [INFO] 📰 SOL news: NEGATIVE (-0.19) | Sample: 'The Emperor has no wallet...'
+2026-03-13 01:37:34,303 [INFO] 📰 News Sentiment: NEGATIVE (-0.19)
+2026-03-13 01:37:34,304 [INFO] 🧠 Decision: HOLD
+2026-03-13 01:37:34,305 [INFO] ⏳ Sleeping 180s...
+──────────────────────────────────────────────────
+2026-03-13 01:39:42,689 [INFO] 🛑 Bot stopped by user.
+2026-03-13 01:39:47,524 [INFO] 🚀 Initializing Smart Trading Bot...
+2026-03-13 01:39:48,445 [INFO] [OK] Telegram alerts enabled
+2026-03-13 01:39:48,446 [INFO] ✅ Bot ready | Mode: PAPER | Pairs: ['BTCUSDT', 'ETHUSDT', 'SOLUSDT']
+2026-03-13 01:39:48,447 [INFO] ▶️  Bot started. Press Ctrl+C to stop.
+2026-03-13 01:39:49,339 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-13 01:39:49,556 [INFO] 💰 BTCUSDT price: 70461.0200
+2026-03-13 01:39:49,559 [INFO] 📈 Technical Signal: HOLD | RSI: 58.3 | EMA: BULLISH
+2026-03-13 01:39:50,537 [WARNING] ⚠️  CryptoCompare 'Data' is not a list for BTC
+2026-03-13 01:39:51,165 [INFO] 📰 BTC news: NEGATIVE (-0.19) | Sample: 'The Emperor has no wallet...'
+2026-03-13 01:39:51,166 [INFO] 📰 News Sentiment: NEGATIVE (-0.19)
+2026-03-13 01:39:51,166 [INFO] 🧠 Decision: HOLD
+2026-03-13 01:39:51,167 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-13 01:39:51,365 [INFO] 💰 ETHUSDT price: 2070.2900
+2026-03-13 01:39:51,371 [INFO] 📈 Technical Signal: HOLD | RSI: 57.2 | EMA: BULLISH
+2026-03-13 01:39:51,577 [WARNING] ⚠️  CryptoCompare 'Data' is not a list for ETH
+2026-03-13 01:39:51,941 [INFO] 📰 ETH news: NEGATIVE (-0.19) | Sample: 'The Emperor has no wallet...'
+2026-03-13 01:39:51,942 [INFO] 📰 News Sentiment: NEGATIVE (-0.19)
+2026-03-13 01:39:51,942 [INFO] 🧠 Decision: HOLD
+2026-03-13 01:39:51,942 [INFO] 
+📊 Analyzing SOLUSDT...
+2026-03-13 01:39:52,143 [INFO] 💰 SOLUSDT price: 86.8500
+2026-03-13 01:39:52,148 [INFO] 📈 Technical Signal: HOLD | RSI: 56.4 | EMA: BULLISH
+2026-03-13 01:39:52,353 [WARNING] ⚠️  CryptoCompare 'Data' is not a list for SOL
+2026-03-13 01:39:52,643 [INFO] 📰 SOL news: NEGATIVE (-0.19) | Sample: 'The Emperor has no wallet...'
+2026-03-13 01:39:52,644 [INFO] 📰 News Sentiment: NEGATIVE (-0.19)
+2026-03-13 01:39:52,644 [INFO] 🧠 Decision: HOLD
+2026-03-13 01:39:52,644 [INFO] ⏳ Sleeping 180s...
+──────────────────────────────────────────────────
+2026-03-13 01:42:25,774 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-13 01:42:26,511 [INFO] 💰 BTCUSDT price: 70385.9900
+2026-03-13 01:42:26,516 [INFO] 📈 Technical Signal: HOLD | RSI: 56.1 | EMA: BULLISH
+2026-03-13 01:42:26,516 [INFO] 📰 News Sentiment: NEGATIVE (-0.20)
+2026-03-13 01:42:26,516 [INFO] 🧠 Decision: HOLD
+2026-03-13 01:42:26,516 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-13 01:42:26,726 [INFO] 💰 ETHUSDT price: 2066.8200
+2026-03-13 01:42:26,731 [INFO] 📈 Technical Signal: HOLD | RSI: 54.5 | EMA: BULLISH
+2026-03-13 01:42:26,731 [INFO] 📰 News Sentiment: NEUTRAL (-0.03)
+2026-03-13 01:42:26,731 [INFO] 🧠 Decision: HOLD
+2026-03-13 01:42:26,731 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-13 01:42:52,648 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-13 01:42:52,858 [INFO] 💰 BTCUSDT price: 70377.1400
+2026-03-13 01:42:52,863 [INFO] 📈 Technical Signal: HOLD | RSI: 55.9 | EMA: BULLISH
+2026-03-13 01:42:52,864 [INFO] 📰 News Sentiment: NEGATIVE (-0.19)
+2026-03-13 01:42:52,864 [INFO] 🧠 Decision: HOLD
+2026-03-13 01:42:52,864 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-13 01:42:53,111 [INFO] 💰 ETHUSDT price: 2066.6900
+2026-03-13 01:42:53,116 [INFO] 📈 Technical Signal: HOLD | RSI: 54.4 | EMA: BULLISH
+2026-03-13 01:42:53,116 [INFO] 📰 News Sentiment: NEGATIVE (-0.19)
+2026-03-13 01:42:53,117 [INFO] 🧠 Decision: HOLD
+2026-03-13 01:42:53,117 [INFO] 
+📊 Analyzing SOLUSDT...
+2026-03-13 01:42:53,349 [INFO] 💰 SOLUSDT price: 86.7200
+2026-03-13 01:42:53,355 [INFO] 📈 Technical Signal: HOLD | RSI: 54.4 | EMA: BULLISH
+2026-03-13 01:42:53,355 [INFO] 📰 News Sentiment: NEGATIVE (-0.19)
+2026-03-13 01:42:53,357 [INFO] 🧠 Decision: HOLD
+2026-03-13 01:42:53,357 [INFO] ⏳ Sleeping 180s...
+──────────────────────────────────────────────────
+2026-03-13 01:45:33,937 [INFO] 🛑 Bot stopped by user.
+2026-03-13 01:45:37,524 [INFO] 🚀 Initializing Smart Trading Bot...
+2026-03-13 01:45:38,479 [INFO] [OK] Telegram alerts enabled
+2026-03-13 01:45:38,480 [INFO] ✅ Bot ready | Mode: PAPER | Pairs: ['BTCUSDT', 'ETHUSDT', 'SOLUSDT', 'XAUUSDT']
+2026-03-13 01:45:38,480 [INFO] ▶️  Bot started. Press Ctrl+C to stop.
+2026-03-13 01:45:39,357 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-13 01:45:39,571 [INFO] 💰 BTCUSDT price: 70406.3500
+2026-03-13 01:45:39,578 [INFO] 📈 Technical Signal: HOLD | RSI: 59.8 | EMA: BULLISH
+2026-03-13 01:45:40,841 [WARNING] ⚠️  CryptoCompare API error for BTC: You need a valid auth key or api key to access this endpoint
+2026-03-13 01:45:41,383 [INFO] 📡 BTC news from cointelegraph_rss
+2026-03-13 01:45:41,383 [INFO] 📰 BTC news: NEUTRAL (-0.07) | Sample: 'Bitcoin funding rate flips negative: Are bears getting too c...'
+2026-03-13 01:45:41,384 [INFO] 📰 News Sentiment: NEUTRAL (-0.07)
+2026-03-13 01:45:41,384 [INFO] 🧠 Decision: HOLD
+2026-03-13 01:45:41,385 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-13 01:45:41,607 [INFO] 💰 ETHUSDT price: 2067.4400
+2026-03-13 01:45:41,609 [INFO] 📈 Technical Signal: HOLD | RSI: 56.3 | EMA: BULLISH
+2026-03-13 01:45:41,873 [WARNING] ⚠️  CryptoCompare API error for ETH: You need a valid auth key or api key to access this endpoint
+2026-03-13 01:45:42,892 [INFO] 📡 ETH news from cointelegraph_rss
+2026-03-13 01:45:42,893 [INFO] 📰 ETH news: NEGATIVE (-0.16) | Sample: 'BlackRock launches staked Ethereum ETF offering ETH exposure...'
+2026-03-13 01:45:42,893 [INFO] 📰 News Sentiment: NEGATIVE (-0.16)
+2026-03-13 01:45:42,893 [INFO] 🧠 Decision: HOLD
+2026-03-13 01:45:42,893 [INFO] 
+📊 Analyzing SOLUSDT...
+2026-03-13 01:45:43,093 [INFO] 💰 SOLUSDT price: 86.6800
+2026-03-13 01:45:43,099 [INFO] 📈 Technical Signal: HOLD | RSI: 55.3 | EMA: BULLISH
+2026-03-13 01:45:43,375 [WARNING] ⚠️  CryptoCompare API error for SOL: You need a valid auth key or api key to access this endpoint
+2026-03-13 01:45:44,420 [INFO] 📡 SOL news from cointelegraph_rss
+2026-03-13 01:45:44,422 [INFO] 📰 SOL news: NEUTRAL (0.03) | Sample: 'Polychain backs VeryAI’s $10M raise to build palm-scan ident...'
+2026-03-13 01:45:44,422 [INFO] 📰 News Sentiment: NEUTRAL (0.03)
+2026-03-13 01:45:44,423 [INFO] 🧠 Decision: HOLD
+2026-03-13 01:45:44,425 [INFO] 
+📊 Analyzing XAUUSDT...
+2026-03-13 01:45:44,615 [ERROR] ❌ Failed to fetch data for XAUUSDT: APIError(code=-1121): Invalid symbol.
+2026-03-13 01:45:44,619 [WARNING] ⚠️  No data for XAUUSDT
+2026-03-13 01:45:44,620 [INFO] ⏳ Sleeping 100s...
+──────────────────────────────────────────────────
+2026-03-13 01:47:24,636 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-13 01:47:24,838 [INFO] 💰 BTCUSDT price: 70399.2600
+2026-03-13 01:47:24,844 [INFO] 📈 Technical Signal: HOLD | RSI: 59.5 | EMA: BULLISH
+2026-03-13 01:47:24,844 [INFO] 📰 News Sentiment: NEUTRAL (-0.07)
+2026-03-13 01:47:24,844 [INFO] 🧠 Decision: HOLD
+2026-03-13 01:47:24,846 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-13 01:47:25,093 [INFO] 💰 ETHUSDT price: 2067.5000
+2026-03-13 01:47:25,106 [INFO] 📈 Technical Signal: HOLD | RSI: 56.4 | EMA: BULLISH
+2026-03-13 01:47:25,106 [INFO] 📰 News Sentiment: NEGATIVE (-0.16)
+2026-03-13 01:47:25,107 [INFO] 🧠 Decision: HOLD
+2026-03-13 01:47:25,107 [INFO] 
+📊 Analyzing SOLUSDT...
+2026-03-13 01:47:25,335 [INFO] 💰 SOLUSDT price: 86.6400
+2026-03-13 01:47:25,341 [INFO] 📈 Technical Signal: HOLD | RSI: 53.9 | EMA: BULLISH
+2026-03-13 01:47:25,342 [INFO] 📰 News Sentiment: NEUTRAL (0.03)
+2026-03-13 01:47:25,344 [INFO] 🧠 Decision: HOLD
+2026-03-13 01:47:25,344 [INFO] 
+📊 Analyzing XAUUSDT...
+2026-03-13 01:47:25,555 [ERROR] ❌ Failed to fetch data for XAUUSDT: APIError(code=-1121): Invalid symbol.
+2026-03-13 01:47:25,557 [WARNING] ⚠️  No data for XAUUSDT
+2026-03-13 01:47:25,557 [INFO] ⏳ Sleeping 100s...
+──────────────────────────────────────────────────
+2026-03-13 01:47:26,741 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-13 01:47:27,234 [INFO] 💰 BTCUSDT price: 70400.9800
+2026-03-13 01:47:27,237 [INFO] 📈 Technical Signal: HOLD | RSI: 56.6 | EMA: BULLISH
+2026-03-13 01:47:28,383 [WARNING] ⚠️  News fetch failed for BTC: unhashable type: 'slice'
+2026-03-13 01:47:29,810 [INFO] 📰 BTC news: NEUTRAL (-0.06) | Sample: 'BTC trapped in tight range as growing open interest hints at...'
+2026-03-13 01:47:29,811 [INFO] 📰 News Sentiment: NEUTRAL (-0.06)
+2026-03-13 01:47:29,811 [INFO] 🧠 Decision: HOLD
+2026-03-13 01:47:29,811 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-13 01:47:30,031 [INFO] 💰 ETHUSDT price: 2067.5000
+2026-03-13 01:47:30,037 [INFO] 📈 Technical Signal: HOLD | RSI: 55.0 | EMA: BULLISH
+2026-03-13 01:47:30,858 [WARNING] ⚠️  News fetch failed for ETH: unhashable type: 'slice'
+2026-03-13 01:47:31,988 [INFO] 📰 ETH news: NEUTRAL (-0.06) | Sample: 'Ethereum’s (ETH) Panic Sellers Are Gone — Is $2,700 Next? - ...'
+2026-03-13 01:47:31,988 [INFO] 📰 News Sentiment: NEUTRAL (-0.06)
+2026-03-13 01:47:31,988 [INFO] 🧠 Decision: HOLD
+2026-03-13 01:47:31,988 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-13 01:49:05,557 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-13 01:49:05,805 [INFO] 💰 BTCUSDT price: 70305.7600
+2026-03-13 01:49:05,817 [INFO] 📈 Technical Signal: HOLD | RSI: 53.4 | EMA: BULLISH
+2026-03-13 01:49:05,817 [INFO] 📰 News Sentiment: NEUTRAL (-0.07)
+2026-03-13 01:49:05,818 [INFO] 🧠 Decision: HOLD
+2026-03-13 01:49:05,819 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-13 01:49:06,038 [INFO] 💰 ETHUSDT price: 2066.3500
+2026-03-13 01:49:06,047 [INFO] 📈 Technical Signal: HOLD | RSI: 54.6 | EMA: BULLISH
+2026-03-13 01:49:06,047 [INFO] 📰 News Sentiment: NEGATIVE (-0.16)
+2026-03-13 01:49:06,048 [INFO] 🧠 Decision: HOLD
+2026-03-13 01:49:06,048 [INFO] 
+📊 Analyzing SOLUSDT...
+2026-03-13 01:49:06,301 [INFO] 💰 SOLUSDT price: 86.6100
+2026-03-13 01:49:06,309 [INFO] 📈 Technical Signal: HOLD | RSI: 53.0 | EMA: BULLISH
+2026-03-13 01:49:06,314 [INFO] 📰 News Sentiment: NEUTRAL (0.03)
+2026-03-13 01:49:06,315 [INFO] 🧠 Decision: HOLD
+2026-03-13 01:49:06,316 [INFO] 
+📊 Analyzing XAUUSDT...
+2026-03-13 01:49:06,538 [ERROR] ❌ Failed to fetch data for XAUUSDT: APIError(code=-1121): Invalid symbol.
+2026-03-13 01:49:06,540 [WARNING] ⚠️  No data for XAUUSDT
+2026-03-13 01:49:06,540 [INFO] ⏳ Sleeping 100s...
+──────────────────────────────────────────────────
+2026-03-13 01:50:46,554 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-13 01:50:46,781 [INFO] 💰 BTCUSDT price: 70281.9800
+2026-03-13 01:50:46,787 [INFO] 📈 Technical Signal: HOLD | RSI: 52.0 | EMA: BULLISH
+2026-03-13 01:50:46,788 [INFO] 📰 News Sentiment: NEUTRAL (-0.07)
+2026-03-13 01:50:46,788 [INFO] 🧠 Decision: HOLD
+2026-03-13 01:50:46,789 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-13 01:50:46,994 [INFO] 💰 ETHUSDT price: 2065.4600
+2026-03-13 01:50:46,998 [INFO] 📈 Technical Signal: HOLD | RSI: 53.2 | EMA: BULLISH
+2026-03-13 01:50:46,998 [INFO] 📰 News Sentiment: NEGATIVE (-0.16)
+2026-03-13 01:50:46,999 [INFO] 🧠 Decision: HOLD
+2026-03-13 01:50:46,999 [INFO] 
+📊 Analyzing SOLUSDT...
+2026-03-13 01:50:47,209 [INFO] 💰 SOLUSDT price: 86.5100
+2026-03-13 01:50:47,215 [INFO] 📈 Technical Signal: HOLD | RSI: 49.8 | EMA: BULLISH
+2026-03-13 01:50:47,215 [INFO] 📰 News Sentiment: NEUTRAL (0.03)
+2026-03-13 01:50:47,215 [INFO] 🧠 Decision: HOLD
+2026-03-13 01:50:47,216 [INFO] 
+📊 Analyzing XAUUSDT...
+2026-03-13 01:50:47,410 [ERROR] ❌ Failed to fetch data for XAUUSDT: APIError(code=-1121): Invalid symbol.
+2026-03-13 01:50:47,412 [WARNING] ⚠️  No data for XAUUSDT
+2026-03-13 01:50:47,412 [INFO] ⏳ Sleeping 100s...
+──────────────────────────────────────────────────
+2026-03-13 01:52:27,419 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-13 01:52:27,634 [INFO] 💰 BTCUSDT price: 70330.6200
+2026-03-13 01:52:27,641 [INFO] 📈 Technical Signal: HOLD | RSI: 54.7 | EMA: BULLISH
+2026-03-13 01:52:27,641 [INFO] 📰 News Sentiment: NEUTRAL (-0.07)
+2026-03-13 01:52:27,641 [INFO] 🧠 Decision: HOLD
+2026-03-13 01:52:27,641 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-13 01:52:27,839 [INFO] 💰 ETHUSDT price: 2067.7300
+2026-03-13 01:52:27,843 [INFO] 📈 Technical Signal: HOLD | RSI: 56.5 | EMA: BULLISH
+2026-03-13 01:52:27,843 [INFO] 📰 News Sentiment: NEGATIVE (-0.16)
+2026-03-13 01:52:27,843 [INFO] 🧠 Decision: HOLD
+2026-03-13 01:52:27,843 [INFO] 
+📊 Analyzing SOLUSDT...
+2026-03-13 01:52:28,050 [INFO] 💰 SOLUSDT price: 86.7400
+2026-03-13 01:52:28,056 [INFO] 📈 Technical Signal: HOLD | RSI: 56.2 | EMA: BULLISH
+2026-03-13 01:52:28,056 [INFO] 📰 News Sentiment: NEUTRAL (0.03)
+2026-03-13 01:52:28,057 [INFO] 🧠 Decision: HOLD
+2026-03-13 01:52:28,057 [INFO] 
+📊 Analyzing XAUUSDT...
+2026-03-13 01:52:28,262 [ERROR] ❌ Failed to fetch data for XAUUSDT: APIError(code=-1121): Invalid symbol.
+2026-03-13 01:52:28,264 [WARNING] ⚠️  No data for XAUUSDT
+2026-03-13 01:52:28,264 [INFO] ⏳ Sleeping 100s...
+──────────────────────────────────────────────────
+2026-03-13 01:52:31,996 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-13 01:52:32,408 [INFO] 💰 BTCUSDT price: 70345.0200
+2026-03-13 01:52:32,411 [INFO] 📈 Technical Signal: HOLD | RSI: 54.8 | EMA: BULLISH
+2026-03-13 01:52:32,411 [INFO] 📰 News Sentiment: NEUTRAL (-0.06)
+2026-03-13 01:52:32,411 [INFO] 🧠 Decision: HOLD
+2026-03-13 01:52:32,411 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-13 01:52:32,608 [INFO] 💰 ETHUSDT price: 2067.7300
+2026-03-13 01:52:32,611 [INFO] 📈 Technical Signal: HOLD | RSI: 55.1 | EMA: BULLISH
+2026-03-13 01:52:32,611 [INFO] 📰 News Sentiment: NEUTRAL (-0.06)
+2026-03-13 01:52:32,611 [INFO] 🧠 Decision: HOLD
+2026-03-13 01:52:32,611 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-13 01:54:08,277 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-13 01:54:08,484 [INFO] 💰 BTCUSDT price: 70369.5100
+2026-03-13 01:54:08,489 [INFO] 📈 Technical Signal: HOLD | RSI: 56.6 | EMA: BULLISH
+2026-03-13 01:54:08,490 [INFO] 📰 News Sentiment: NEUTRAL (-0.07)
+2026-03-13 01:54:08,491 [INFO] 🧠 Decision: HOLD
+2026-03-13 01:54:08,491 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-13 01:54:08,690 [INFO] 💰 ETHUSDT price: 2068.4800
+2026-03-13 01:54:08,696 [INFO] 📈 Technical Signal: HOLD | RSI: 57.4 | EMA: BULLISH
+2026-03-13 01:54:08,697 [INFO] 📰 News Sentiment: NEGATIVE (-0.16)
+2026-03-13 01:54:08,697 [INFO] 🧠 Decision: HOLD
+2026-03-13 01:54:08,698 [INFO] 
+📊 Analyzing SOLUSDT...
+2026-03-13 01:54:08,906 [INFO] 💰 SOLUSDT price: 86.8000
+2026-03-13 01:54:08,910 [INFO] 📈 Technical Signal: HOLD | RSI: 57.6 | EMA: BULLISH
+2026-03-13 01:54:08,911 [INFO] 📰 News Sentiment: NEUTRAL (0.03)
+2026-03-13 01:54:08,912 [INFO] 🧠 Decision: HOLD
+2026-03-13 01:54:08,915 [INFO] 
+📊 Analyzing XAUUSDT...
+2026-03-13 01:54:09,412 [ERROR] ❌ Failed to fetch data for XAUUSDT: APIError(code=-1121): Invalid symbol.
+2026-03-13 01:54:09,414 [WARNING] ⚠️  No data for XAUUSDT
+2026-03-13 01:54:09,414 [INFO] ⏳ Sleeping 100s...
+──────────────────────────────────────────────────
+2026-03-13 01:55:49,424 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-13 01:55:49,634 [INFO] 💰 BTCUSDT price: 70381.4200
+2026-03-13 01:55:49,639 [INFO] 📈 Technical Signal: HOLD | RSI: 57.2 | EMA: BULLISH
+2026-03-13 01:55:50,635 [WARNING] ⚠️  CryptoCompare API error for BTC: You need a valid auth key or api key to access this endpoint
+2026-03-13 01:55:51,957 [INFO] 📡 BTC news from cointelegraph_rss
+2026-03-13 01:55:51,958 [INFO] 📰 BTC news: NEUTRAL (-0.07) | Sample: 'Bitcoin funding rate flips negative: Are bears getting too c...'
+2026-03-13 01:55:51,958 [INFO] 📰 News Sentiment: NEUTRAL (-0.07)
+2026-03-13 01:55:51,958 [INFO] 🧠 Decision: HOLD
+2026-03-13 01:55:51,958 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-13 01:55:52,164 [INFO] 💰 ETHUSDT price: 2069.6100
+2026-03-13 01:55:52,167 [INFO] 📈 Technical Signal: HOLD | RSI: 58.8 | EMA: BULLISH
+2026-03-13 01:55:52,369 [WARNING] ⚠️  CryptoCompare API error for ETH: You need a valid auth key or api key to access this endpoint
+2026-03-13 01:55:53,774 [INFO] 📡 ETH news from cointelegraph_rss
+2026-03-13 01:55:53,775 [INFO] 📰 ETH news: NEGATIVE (-0.16) | Sample: 'BlackRock launches staked Ethereum ETF offering ETH exposure...'
+2026-03-13 01:55:53,775 [INFO] 📰 News Sentiment: NEGATIVE (-0.16)
+2026-03-13 01:55:53,776 [INFO] 🧠 Decision: HOLD
+2026-03-13 01:55:53,776 [INFO] 
+📊 Analyzing SOLUSDT...
+2026-03-13 01:55:53,979 [INFO] 💰 SOLUSDT price: 86.8900
+2026-03-13 01:55:53,982 [INFO] 📈 Technical Signal: HOLD | RSI: 59.7 | EMA: BULLISH
+2026-03-13 01:55:54,194 [WARNING] ⚠️  CryptoCompare API error for SOL: You need a valid auth key or api key to access this endpoint
+2026-03-13 01:55:55,317 [INFO] 📡 SOL news from cointelegraph_rss
+2026-03-13 01:55:55,319 [INFO] 📰 SOL news: NEUTRAL (0.03) | Sample: 'Polychain backs VeryAI’s $10M raise to build palm-scan ident...'
+2026-03-13 01:55:55,319 [INFO] 📰 News Sentiment: NEUTRAL (0.03)
+2026-03-13 01:55:55,319 [INFO] 🧠 Decision: HOLD
+2026-03-13 01:55:55,320 [INFO] 
+📊 Analyzing XAUUSDT...
+2026-03-13 01:55:55,522 [ERROR] ❌ Failed to fetch data for XAUUSDT: APIError(code=-1121): Invalid symbol.
+2026-03-13 01:55:55,523 [WARNING] ⚠️  No data for XAUUSDT
+2026-03-13 01:55:55,523 [INFO] ⏳ Sleeping 100s...
+──────────────────────────────────────────────────
+2026-03-13 01:57:32,625 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-13 01:57:33,137 [INFO] 💰 BTCUSDT price: 70326.7500
+2026-03-13 01:57:33,143 [INFO] 📈 Technical Signal: HOLD | RSI: 54.2 | EMA: BULLISH
+2026-03-13 01:57:33,986 [WARNING] ⚠️  News fetch failed for BTC: unhashable type: 'slice'
+2026-03-13 01:57:35,085 [INFO] 📰 BTC news: NEUTRAL (-0.06) | Sample: 'BTC trapped in tight range as growing open interest hints at...'
+2026-03-13 01:57:35,085 [INFO] 📰 News Sentiment: NEUTRAL (-0.06)
+2026-03-13 01:57:35,085 [INFO] 🧠 Decision: HOLD
+2026-03-13 01:57:35,086 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-13 01:57:35,287 [INFO] 💰 ETHUSDT price: 2067.8100
+2026-03-13 01:57:35,290 [INFO] 📈 Technical Signal: HOLD | RSI: 55.2 | EMA: BULLISH
+2026-03-13 01:57:35,538 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-13 01:57:35,731 [INFO] 💰 BTCUSDT price: 70326.7500
+2026-03-13 01:57:35,738 [INFO] 📈 Technical Signal: HOLD | RSI: 54.0 | EMA: BULLISH
+2026-03-13 01:57:35,739 [INFO] 📰 News Sentiment: NEUTRAL (-0.07)
+2026-03-13 01:57:35,740 [INFO] 🧠 Decision: HOLD
+2026-03-13 01:57:35,741 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-13 01:57:35,958 [INFO] 💰 ETHUSDT price: 2067.8200
+2026-03-13 01:57:35,965 [INFO] 📈 Technical Signal: HOLD | RSI: 56.0 | EMA: BULLISH
+2026-03-13 01:57:35,966 [INFO] 📰 News Sentiment: NEGATIVE (-0.16)
+2026-03-13 01:57:35,966 [INFO] 🧠 Decision: HOLD
+2026-03-13 01:57:35,966 [INFO] 
+📊 Analyzing SOLUSDT...
+2026-03-13 01:57:36,113 [WARNING] ⚠️  News fetch failed for ETH: unhashable type: 'slice'
+2026-03-13 01:57:36,170 [INFO] 💰 SOLUSDT price: 86.7700
+2026-03-13 01:57:36,176 [INFO] 📈 Technical Signal: HOLD | RSI: 56.4 | EMA: BULLISH
+2026-03-13 01:57:36,176 [INFO] 📰 News Sentiment: NEUTRAL (0.03)
+2026-03-13 01:57:36,177 [INFO] 🧠 Decision: HOLD
+2026-03-13 01:57:36,178 [INFO] 
+📊 Analyzing XAUUSDT...
+2026-03-13 01:57:36,669 [ERROR] ❌ Failed to fetch data for XAUUSDT: APIError(code=-1121): Invalid symbol.
+2026-03-13 01:57:36,671 [WARNING] ⚠️  No data for XAUUSDT
+2026-03-13 01:57:36,672 [INFO] ⏳ Sleeping 100s...
+──────────────────────────────────────────────────
+2026-03-13 01:57:37,218 [INFO] 📰 ETH news: NEUTRAL (-0.06) | Sample: 'Ethereum’s (ETH) Panic Sellers Are Gone — Is $2,700 Next? - ...'
+2026-03-13 01:57:37,218 [INFO] 📰 News Sentiment: NEUTRAL (-0.06)
+2026-03-13 01:57:37,218 [INFO] 🧠 Decision: HOLD
+2026-03-13 01:57:37,219 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-13 01:59:16,685 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-13 01:59:16,899 [INFO] 💰 BTCUSDT price: 70322.5000
+2026-03-13 01:59:16,903 [INFO] 📈 Technical Signal: HOLD | RSI: 53.8 | EMA: BULLISH
+2026-03-13 01:59:16,903 [INFO] 📰 News Sentiment: NEUTRAL (-0.07)
+2026-03-13 01:59:16,904 [INFO] 🧠 Decision: HOLD
+2026-03-13 01:59:16,904 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-13 01:59:17,103 [INFO] 💰 ETHUSDT price: 2067.6600
+2026-03-13 01:59:17,109 [INFO] 📈 Technical Signal: HOLD | RSI: 55.7 | EMA: BULLISH
+2026-03-13 01:59:17,110 [INFO] 📰 News Sentiment: NEGATIVE (-0.16)
+2026-03-13 01:59:17,110 [INFO] 🧠 Decision: HOLD
+2026-03-13 01:59:17,111 [INFO] 
+📊 Analyzing SOLUSDT...
+2026-03-13 01:59:17,321 [INFO] 💰 SOLUSDT price: 86.7400
+2026-03-13 01:59:17,327 [INFO] 📈 Technical Signal: HOLD | RSI: 55.5 | EMA: BULLISH
+2026-03-13 01:59:17,328 [INFO] 📰 News Sentiment: NEUTRAL (0.03)
+2026-03-13 01:59:17,328 [INFO] 🧠 Decision: HOLD
+2026-03-13 01:59:17,330 [INFO] 
+📊 Analyzing XAUUSDT...
+2026-03-13 01:59:17,535 [ERROR] ❌ Failed to fetch data for XAUUSDT: APIError(code=-1121): Invalid symbol.
+2026-03-13 01:59:17,537 [WARNING] ⚠️  No data for XAUUSDT
+2026-03-13 01:59:17,537 [INFO] ⏳ Sleeping 100s...
+──────────────────────────────────────────────────
+2026-03-13 02:00:57,543 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-13 02:00:57,744 [INFO] 💰 BTCUSDT price: 70239.5500
+2026-03-13 02:00:57,753 [INFO] 📈 Technical Signal: HOLD | RSI: 48.9 | EMA: BULLISH
+2026-03-13 02:00:57,754 [INFO] 📰 News Sentiment: NEUTRAL (-0.07)
+2026-03-13 02:00:57,755 [INFO] 🧠 Decision: HOLD
+2026-03-13 02:00:57,755 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-13 02:00:57,956 [INFO] 💰 ETHUSDT price: 2064.1400
+2026-03-13 02:00:57,962 [INFO] 📈 Technical Signal: HOLD | RSI: 50.2 | EMA: BULLISH
+2026-03-13 02:00:57,963 [INFO] 📰 News Sentiment: NEGATIVE (-0.16)
+2026-03-13 02:00:57,963 [INFO] 🧠 Decision: HOLD
+2026-03-13 02:00:57,963 [INFO] 
+📊 Analyzing SOLUSDT...
+2026-03-13 02:00:58,585 [INFO] 💰 SOLUSDT price: 86.5700
+2026-03-13 02:00:58,595 [INFO] 📈 Technical Signal: HOLD | RSI: 50.6 | EMA: BULLISH
+2026-03-13 02:00:58,596 [INFO] 📰 News Sentiment: NEUTRAL (0.03)
+2026-03-13 02:00:58,596 [INFO] 🧠 Decision: HOLD
+2026-03-13 02:00:58,596 [INFO] 
+📊 Analyzing XAUUSDT...
+2026-03-13 02:00:58,791 [ERROR] ❌ Failed to fetch data for XAUUSDT: APIError(code=-1121): Invalid symbol.
+2026-03-13 02:00:58,793 [WARNING] ⚠️  No data for XAUUSDT
+2026-03-13 02:00:58,794 [INFO] ⏳ Sleeping 100s...
+──────────────────────────────────────────────────
+2026-03-13 02:02:37,225 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-13 02:02:37,729 [INFO] 💰 BTCUSDT price: 70222.6700
+2026-03-13 02:02:37,735 [INFO] 📈 Technical Signal: HOLD | RSI: 51.0 | EMA: BULLISH
+2026-03-13 02:02:37,735 [INFO] 📰 News Sentiment: NEUTRAL (-0.06)
+2026-03-13 02:02:37,735 [INFO] 🧠 Decision: HOLD
+2026-03-13 02:02:37,735 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-13 02:02:37,944 [INFO] 💰 ETHUSDT price: 2063.3600
+2026-03-13 02:02:37,949 [INFO] 📈 Technical Signal: HOLD | RSI: 51.4 | EMA: BULLISH
+2026-03-13 02:02:37,950 [INFO] 📰 News Sentiment: NEUTRAL (-0.06)
+2026-03-13 02:02:37,950 [INFO] 🧠 Decision: HOLD
+2026-03-13 02:02:37,950 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-13 02:02:38,803 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-13 02:02:39,064 [INFO] 💰 BTCUSDT price: 70222.6700
+2026-03-13 02:02:39,073 [INFO] 📈 Technical Signal: HOLD | RSI: 48.1 | EMA: BULLISH
+2026-03-13 02:02:39,076 [INFO] 📰 News Sentiment: NEUTRAL (-0.07)
+2026-03-13 02:02:39,076 [INFO] 🧠 Decision: HOLD
+2026-03-13 02:02:39,078 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-13 02:02:39,284 [INFO] 💰 ETHUSDT price: 2063.3600
+2026-03-13 02:02:39,291 [INFO] 📈 Technical Signal: HOLD | RSI: 49.1 | EMA: BULLISH
+2026-03-13 02:02:39,293 [INFO] 📰 News Sentiment: NEGATIVE (-0.16)
+2026-03-13 02:02:39,293 [INFO] 🧠 Decision: HOLD
+2026-03-13 02:02:39,295 [INFO] 
+📊 Analyzing SOLUSDT...
+2026-03-13 02:02:39,488 [INFO] 💰 SOLUSDT price: 86.5700
+2026-03-13 02:02:39,495 [INFO] 📈 Technical Signal: HOLD | RSI: 50.6 | EMA: BULLISH
+2026-03-13 02:02:39,497 [INFO] 📰 News Sentiment: NEUTRAL (0.03)
+2026-03-13 02:02:39,498 [INFO] 🧠 Decision: HOLD
+2026-03-13 02:02:39,498 [INFO] 
+📊 Analyzing XAUUSDT...
+2026-03-13 02:02:39,693 [ERROR] ❌ Failed to fetch data for XAUUSDT: APIError(code=-1121): Invalid symbol.
+2026-03-13 02:02:39,695 [WARNING] ⚠️  No data for XAUUSDT
+2026-03-13 02:02:39,695 [INFO] ⏳ Sleeping 100s...
+──────────────────────────────────────────────────
+2026-03-13 02:04:19,712 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-13 02:04:19,941 [INFO] 💰 BTCUSDT price: 70227.9200
+2026-03-13 02:04:19,956 [INFO] 📈 Technical Signal: HOLD | RSI: 48.3 | EMA: BULLISH
+2026-03-13 02:04:19,957 [INFO] 📰 News Sentiment: NEUTRAL (-0.07)
+2026-03-13 02:04:19,958 [INFO] 🧠 Decision: HOLD
+2026-03-13 02:04:19,959 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-13 02:04:20,174 [INFO] 💰 ETHUSDT price: 2062.9100
+2026-03-13 02:04:20,191 [INFO] 📈 Technical Signal: HOLD | RSI: 48.5 | EMA: BULLISH
+2026-03-13 02:04:20,193 [INFO] 📰 News Sentiment: NEGATIVE (-0.16)
+2026-03-13 02:04:20,194 [INFO] 🧠 Decision: HOLD
+2026-03-13 02:04:20,195 [INFO] 
+📊 Analyzing SOLUSDT...
+2026-03-13 02:04:20,402 [INFO] 💰 SOLUSDT price: 86.5000
+2026-03-13 02:04:20,413 [INFO] 📈 Technical Signal: HOLD | RSI: 48.8 | EMA: BULLISH
+2026-03-13 02:04:20,415 [INFO] 📰 News Sentiment: NEUTRAL (0.03)
+2026-03-13 02:04:20,415 [INFO] 🧠 Decision: HOLD
+2026-03-13 02:04:20,416 [INFO] 
+📊 Analyzing XAUUSDT...
+2026-03-13 02:04:20,612 [ERROR] ❌ Failed to fetch data for XAUUSDT: APIError(code=-1121): Invalid symbol.
+2026-03-13 02:04:20,614 [WARNING] ⚠️  No data for XAUUSDT
+2026-03-13 02:04:20,615 [INFO] ⏳ Sleeping 100s...
+──────────────────────────────────────────────────
+2026-03-13 02:04:36,728 [INFO] 🛑 Bot stopped by user.
