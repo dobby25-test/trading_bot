@@ -2176,3 +2176,81 @@ Total PnL: +0.00 USDT
 2026-03-13 02:17:48,395 [INFO] 🧠 Decision: HOLD
 2026-03-13 02:17:48,396 [INFO] ⏳ Sleeping 300s...
 ──────────────────────────────────────────────────
+2026-03-13 02:22:48,411 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-13 02:22:48,849 [INFO] 💰 BTCUSDT price: 70224.4000
+2026-03-13 02:22:48,854 [INFO] 📈 Technical Signal: HOLD | RSI: 51.2 | EMA: BULLISH
+2026-03-13 02:22:48,854 [INFO] 📰 News Sentiment: NEUTRAL (-0.06)
+2026-03-13 02:22:48,854 [INFO] 🧠 Decision: HOLD
+2026-03-13 02:22:48,855 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-13 02:22:49,052 [INFO] 💰 ETHUSDT price: 2063.7000
+2026-03-13 02:22:49,056 [INFO] 📈 Technical Signal: HOLD | RSI: 51.7 | EMA: BULLISH
+2026-03-13 02:22:49,057 [INFO] 📰 News Sentiment: NEUTRAL (-0.06)
+2026-03-13 02:22:49,057 [INFO] 🧠 Decision: HOLD
+2026-03-13 02:22:49,057 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-13 02:27:49,057 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-13 02:27:49,469 [INFO] 💰 BTCUSDT price: 70172.0000
+2026-03-13 02:27:49,475 [INFO] 📈 Technical Signal: HOLD | RSI: 49.7 | EMA: BULLISH
+2026-03-13 02:27:50,566 [WARNING] ⚠️  News fetch failed for BTC: unhashable type: 'slice'
+2026-03-13 02:27:51,624 [INFO] 📰 BTC news: NEGATIVE (-0.11) | Sample: 'BTC trapped in tight range as growing open interest hints at...'
+2026-03-13 02:27:51,625 [INFO] 📰 News Sentiment: NEGATIVE (-0.11)
+2026-03-13 02:27:51,625 [INFO] 🧠 Decision: HOLD
+2026-03-13 02:27:51,625 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-13 02:27:51,823 [INFO] 💰 ETHUSDT price: 2062.5100
+2026-03-13 02:27:51,828 [INFO] 📈 Technical Signal: HOLD | RSI: 50.8 | EMA: BULLISH
+2026-03-13 02:27:52,693 [WARNING] ⚠️  News fetch failed for ETH: unhashable type: 'slice'
+2026-03-13 02:27:53,814 [INFO] 📰 ETH news: NEUTRAL (-0.06) | Sample: 'Ethereum’s (ETH) Panic Sellers Are Gone — Is $2,700 Next? - ...'
+2026-03-13 02:27:53,814 [INFO] 📰 News Sentiment: NEUTRAL (-0.06)
+2026-03-13 02:27:53,814 [INFO] 🧠 Decision: HOLD
+2026-03-13 02:27:53,814 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-13 02:32:53,815 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-13 02:32:54,413 [INFO] 💰 BTCUSDT price: 70293.7700
+2026-03-13 02:32:54,418 [INFO] 📈 Technical Signal: HOLD | RSI: 53.3 | EMA: BULLISH
+2026-03-13 02:32:54,418 [INFO] 📰 News Sentiment: NEGATIVE (-0.11)
+2026-03-13 02:32:54,419 [INFO] 🧠 Decision: HOLD
+2026-03-13 02:32:54,419 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-13 02:32:54,635 [INFO] 💰 ETHUSDT price: 2065.6000
+2026-03-13 02:32:54,640 [INFO] 📈 Technical Signal: HOLD | RSI: 53.3 | EMA: BULLISH
+2026-03-13 02:32:54,640 [INFO] 📰 News Sentiment: NEUTRAL (-0.06)
+2026-03-13 02:32:54,640 [INFO] 🧠 Decision: HOLD
+2026-03-13 02:32:54,640 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-13 02:37:54,654 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-13 02:37:55,176 [INFO] 💰 BTCUSDT price: 70278.2900
+2026-03-13 02:37:55,182 [INFO] 📈 Technical Signal: HOLD | RSI: 52.8 | EMA: BULLISH
+2026-03-13 02:37:56,340 [WARNING] ⚠️  News fetch failed for BTC: unhashable type: 'slice'
+2026-03-13 02:37:57,326 [INFO] 📰 BTC news: NEGATIVE (-0.20) | Sample: 'BTC trapped in tight range as growing open interest hints at...'
+2026-03-13 02:37:57,326 [INFO] 📰 News Sentiment: NEGATIVE (-0.20)
+2026-03-13 02:37:57,326 [INFO] 🧠 Decision: HOLD
+2026-03-13 02:37:57,327 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-13 02:37:57,574 [INFO] 💰 ETHUSDT price: 2063.5500
+2026-03-13 02:37:57,577 [INFO] 📈 Technical Signal: HOLD | RSI: 51.7 | EMA: BULLISH
+2026-03-13 02:37:59,348 [WARNING] ⚠️  News fetch failed for ETH: unhashable type: 'slice'
+2026-03-13 02:38:00,318 [INFO] 📰 ETH news: NEUTRAL (-0.06) | Sample: 'Ethereum’s (ETH) Panic Sellers Are Gone — Is $2,700 Next? - ...'
+2026-03-13 02:38:00,319 [INFO] 📰 News Sentiment: NEUTRAL (-0.06)
+2026-03-13 02:38:00,319 [INFO] 🧠 Decision: HOLD
+2026-03-13 02:38:00,319 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────
+2026-03-13 02:43:00,326 [INFO] 
+📊 Analyzing BTCUSDT...
+2026-03-13 02:43:00,816 [INFO] 💰 BTCUSDT price: 70420.1500
+2026-03-13 02:43:00,820 [INFO] 📈 Technical Signal: HOLD | RSI: 56.4 | EMA: BULLISH
+2026-03-13 02:43:00,820 [INFO] 📰 News Sentiment: NEGATIVE (-0.20)
+2026-03-13 02:43:00,820 [INFO] 🧠 Decision: HOLD
+2026-03-13 02:43:00,820 [INFO] 
+📊 Analyzing ETHUSDT...
+2026-03-13 02:43:01,036 [INFO] 💰 ETHUSDT price: 2067.0400
+2026-03-13 02:43:01,038 [INFO] 📈 Technical Signal: HOLD | RSI: 54.4 | EMA: BULLISH
+2026-03-13 02:43:01,038 [INFO] 📰 News Sentiment: NEUTRAL (-0.06)
+2026-03-13 02:43:01,038 [INFO] 🧠 Decision: HOLD
+2026-03-13 02:43:01,039 [INFO] ⏳ Sleeping 300s...
+──────────────────────────────────────────────────

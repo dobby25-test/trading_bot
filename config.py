@@ -24,7 +24,7 @@ CONFIG = {
     "TIMEFRAME": "5m",
 
     # Check interval (seconds)
-    "CHECK_INTERVAL": 100,
+    "CHECK_INTERVAL": 180,
 
     # Risk Management
     "RISK_PER_TRADE_PCT": 1.5,
