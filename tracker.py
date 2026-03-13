@@ -19,14 +19,14 @@ class TradeTracker:
     def _load(self) -> dict:
         if os.path.exists(TRADES_FILE):
             try:
-                with open(TRADES_FILE) as f:
+                with open(TRADES_FILE, "r", encoding="utf-8") as f:
                     return json.load(f)
-            except:
+            except (OSError, json.JSONDecodeError):
                 pass
         return {"open": {}, "closed": []}
 
     def _save(self):
-        with open(TRADES_FILE, "w") as f:
+        with open(TRADES_FILE, "w", encoding="utf-8") as f:
             json.dump(self.trades, f, indent=2)
 
     def add_trade(self, trade: dict):
